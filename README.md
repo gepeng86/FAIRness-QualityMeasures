@@ -1,4 +1,3 @@
-# FAIR-QualityMeasures
 FAIR Quality Measures
 =====================
 
@@ -15,18 +14,6 @@ license. When using or reusing the framework, please provide attribution
 to this repository.
 
 Community feedback and comments are welcome.
-
-Attribution
-============
-@misc{FAIR-QualityMeasures,
-    author          = {Peng, Ge},
-    doi             = {},
-    month           = May,
-    title           = {{FAIR Quality Measures}},
-    repository-code = {https://github.com/gepeng86/FAIR-QualityMeasures},
-    year            = {2024}
-}
-
 
 References
 ==========
