@@ -1,6 +1,6 @@
 Common FAIR Vocabulary
 ======================
-Consolidated terms pertaining to FAIR Principles based on Peng et al. (2024)
+Consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to individual FAIR Principles.
 
 -------
  Class
@@ -36,15 +36,32 @@ Consolidated terms pertaining to FAIR Principles based on Peng et al. (2024)
 ---------------------------------------------------------------------------- 
  Quality Measures, representing unique core concepts in the FAIR principles
 ---------------------------------------------------------------------------- 
-  * _Identifier_, a unique and persistent identifier for data and/or metadata;
+  * _Identifier_ refers to a unique and persistent identifier for data and/or metadata.
+    
   * _Rich Metadata_, a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
-  * _Resource_, infrastructure such as search engines like Google that users can perform searches to find relevant data;
-  * _Protocol_, a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval;
-  * _Procedure_, a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile);
-  * _Language_, a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines;
-  * _Vocabulary_, a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
-  * _Reference_, a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
-  * _Attribute_, closely related to Rich Metadata, a set of attributes that focus on providing information for use suitability and conditions of the discovered data;
-  * _License_, a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
-  * _Provenance_, information on when and how the data or metadata was created and modified, and by whom, its sources and ownership throughout its lifecycle; 
-  * _Standard_, an established or agreed-upon set of guidelines, rules, specifications, or criteria used as a reference or norms.
+    
+  * _Resource_ refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
+    
+  * _Protocol_ refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
+    
+  * _Procedure_ refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
+    
+  * _Language_ refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
+    
+  * _Vocabulary_ refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
+    
+  * _Reference_ refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
+    
+  * _Attribute_ is closely related to Rich Metadata and refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
+    
+  * _License_ refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
+    
+  * _Provenance_ refers to information on when and how the data or metadata was created and modified, and by whom, its sources and ownership throughout its lifecycle.
+     
+  * _Standard_ refers to an established or agreed-upon set of guidelines, rules, specifications, or criteria used as a reference or norms.
+
+References
+==========
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. Inter. J. Digital Earth. Under review.
+
+Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data, 3,  https://doi.org/10.1038/sdata.2016.18  
