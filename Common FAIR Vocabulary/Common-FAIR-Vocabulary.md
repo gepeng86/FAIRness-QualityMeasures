@@ -10,28 +10,28 @@ Consolidated terms pertaining to FAIR Principles based on Peng et al. (2024)
 ------------------------------------------------------------------------------------------
  Dimensions, representing the four key non-functional requirements of the FAIR Principles
 ------------------------------------------------------------------------------------------
-  * Findability (F), 
-  * Accessibility (A),
-  * Interoperability (I),
+  * Findability (F) 
+  * Accessibility (A)
+  * Interoperability (I)
   * Reusability (R) 
 
 ----------------------------------------------------------
  Sub-Classes, representing 15 individual FAIR principles
 ---------------------------------------------------------- 
   * {F1, F2, F3, F4, A1, A1.1, A1.2, A2, I1, I2, I3, R1, R1.1, R1.2, R1.3}
-  * Sub-class in F: {F1, F2, F3, F4}
-  * Sub-class in A: {A1, A1.1, A1.2, A2}
-    * Sub-subclass in A1: {A1.1, A1.2}
-  * Sub-class in I: {I1, I2, I3}
-  * Sub-class in R: {R1, R1.1, R1.2, R1.3}
-    * Sub-subclass in R1: {R1.1, R1.2, R1.3}
+    * Sub-class in F: {F1, F2, F3, F4}
+    * Sub-class in A: {A1, A1.1, A1.2, A2}
+      * Sub-subclass in A1: {A1.1, A1.2}
+    * Sub-class in I: {I1, I2, I3}
+    * Sub-class in R: {R1, R1.1, R1.2, R1.3}
+      * Sub-subclass in R1: {R1.1, R1.2, R1.3}
 
 ------------------------------------------------------------------
  Categories, representing unique entities in the FAIR Principles
 ------------------------------------------------------------------
-  * Data (D),
-  * Metadata (M),
-  * Infrastructure (IS),
+  * Data (D)
+  * Metadata (M)
+  * Infrastructure (IS)
 
 ---------------------------------------------------------------------------- 
  Quality Measures, representing unique core concepts in the FAIR principles
