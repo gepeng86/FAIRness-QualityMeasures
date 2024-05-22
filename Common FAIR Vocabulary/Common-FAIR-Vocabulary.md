@@ -5,7 +5,7 @@ A set of consolidated terms pertaining to FAIR Principles based on Peng et al. (
 -------
  Class
 -------
-  * FAIR Principles, a framework providing high-level data management and stewardship guidelines for sharing digital resources, defined by Wilkinson et al. (2016).
+  * FAIR Principles, a framework providing high-level data management and stewardship guidelines defined by Wilkinson et al. (2016) for sharing digital resources, especially in a computer-friendly environment.
 
 ------------------------------------------------------------------------------------------
  Dimensions, representing the four key non-functional requirements of the FAIR Principles
