@@ -1,6 +1,6 @@
 Common FAIR Vocabulary
 ======================
-A set of the consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to description of individual FAIR principles.
+A set of consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to description of individual FAIR principles.
 
 -------
  Class
