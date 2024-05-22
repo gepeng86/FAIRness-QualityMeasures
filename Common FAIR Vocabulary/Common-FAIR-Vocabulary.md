@@ -1,17 +1,23 @@
 Common FAIR Vocabulary
 ======================
+Consolidated terms pertaining to FAIR Principles based on Peng et al. (2024)
 
-* Class
+-------
+ Class
 -------
   * FAIR Principles, a framework providing high-level data management and stewardship guidelines for sharing digital resources, defined by Wilkinson et al. (2016).
 
-* Dimensions, four key non-functional requirements of the FAIR Principles
+------------------------------------------------------------------------------------------
+ Dimensions, representing the four key non-functional requirements of the FAIR Principles
+------------------------------------------------------------------------------------------
   * Findability (F), 
   * Accessibility (A),
   * Interoperability (I),
   * Reusability (R) 
 
-* Sub-Classes, 15 individual FAIR principles
+----------------------------------------------------------
+ Sub-Classes, representing 15 individual FAIR principles
+---------------------------------------------------------- 
   * {F1, F2, F3, F4, A1, A1.1, A1.2, A2, I1, I2, I3, R1, R1.1, R1.2, R1.3}
   * Sub-class in F: {F1, F2, F3, F4}
   * Sub-class in A: {A1, A1.1, A1.2, A2}
@@ -20,12 +26,16 @@ Common FAIR Vocabulary
   * Sub-class in R: {R1, R1.1, R1.2, R1.3}
     * Sub-subclass in R1: {R1.1, R1.2, R1.3}
 
-* Categories
+------------------------------------------------------------------
+ Categories, representing unique entities in the FAIR Principles
+------------------------------------------------------------------
   * Data (D),
   * Metadata (M),
   * Infrastructure (IS),
 
-* Quality Measures
+---------------------------------------------------------------------------- 
+ Quality Measures, representing unique core concepts in the FAIR principles
+---------------------------------------------------------------------------- 
   * _Identifier_, a unique and persistent identifier for data and/or metadata;
   * _Rich Metadata_, a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
   * _Resource_, infrastructure such as search engines like Google that users can perform searches to find relevant data;
