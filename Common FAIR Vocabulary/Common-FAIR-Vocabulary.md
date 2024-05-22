@@ -38,7 +38,7 @@ A set of consolidated terms pertaining to FAIR Principles based on Peng et al. (
 ---------------------------------------------------------------------------- 
   * _Identifier_ refers to a unique and persistent identifier for data and/or metadata.
     
-  * _Rich Metadata_, a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
+  * _Rich Metadata_ refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
     
   * _Resource_ refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
     
