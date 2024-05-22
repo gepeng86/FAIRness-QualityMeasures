@@ -1,6 +1,6 @@
 Common FAIR Vocabulary
 ======================
-A set of the consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to individual FAIR Principles.
+A set of the consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to description of individual FAIR principles.
 
 -------
  Class
@@ -26,9 +26,9 @@ A set of the consolidated terms pertaining to FAIR Principles based on Peng et a
     * Sub-class in R: {R1, R1.1, R1.2, R1.3}
       * Sub-subclass in R1: {R1.1, R1.2, R1.3}
 
-------------------------------------------------------------------
- Categories, representing unique entities in the FAIR Principles
-------------------------------------------------------------------
+------------------------------------------------------------------------------
+ Categories, representing unique core entities covered in the FAIR principles
+------------------------------------------------------------------------------
   * Data (D)
   * Metadata (M)
   * Infrastructure (IS)
