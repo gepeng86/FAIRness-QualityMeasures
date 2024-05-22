@@ -44,15 +44,15 @@ A set of consolidated terms pertaining to FAIR Principles based on Peng et al. (
     
   * <span style="color:blue">_Protocol_</span> refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
     
-  * <span style="color:blue">_Procedure_</span> refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
+  * <span style="color:blue">***Procedure***</span> refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
     
-  * <span style="color:blue">_Language_</span> refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
+  * <span style="color:blue">***Language***</span> refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
     
-  * <span style="color:blue">_Vocabulary_</span> refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
+  * <span style="color:blue">***Vocabulary***</span> refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
     
-  * <span style="color:blue">_Reference_</span> refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
+  * <span style="color:blue">***Reference***</span> refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
     
-  * <span style="color:blue">_Attribute_</span> is closely related to Rich Metadata and refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
+  * <span style="color:blue">***Attribute***</span> is closely related to Rich Metadata and refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
     
   * <span style="color:blue">_License_</span> refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
     
