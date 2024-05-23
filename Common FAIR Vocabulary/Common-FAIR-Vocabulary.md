@@ -2,9 +2,9 @@ Common FAIR Vocabulary
 ======================
 A set of consolidated terms pertaining to FAIR Principles based on Peng et al. (2024). Capitalized "Principles" denotes the FAIR Principles framework while the lower case of "principles" refers to description of individual FAIR principles.
 
--------
- Class
--------
+---------------------------------------------------
+ Class, representing the FAIR Principles Framework
+---------------------------------------------------
   * FAIR Principles, a framework providing high-level data management and stewardship guidelines defined by Wilkinson et al. (2016) for sharing digital resources, especially in a computer-friendly environment.
 
 ------------------------------------------------------------------------------------------
