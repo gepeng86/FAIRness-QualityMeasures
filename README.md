@@ -4,7 +4,7 @@ FAIR Quality Measures
 Introduction
 =====================
 
-This repository describes the FAIR quality measures from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). The FAIR quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>(https://doi.org/10.1038/sdata.2016.18). The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216).
+This repository describes the FAIR quality measures from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). The FAIR quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18). The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216).
 
 The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
 
