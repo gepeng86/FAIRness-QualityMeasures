@@ -4,7 +4,7 @@ FAIR Quality Measures
 Introduction
 =====================
 
-This repository describes the FAIR quality measures from Peng et al. (2024). The FAIR quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls (Wilkinson et al. 2016). The core concepts are deduced by decomposing the definitions through a concept mapping approach described in Peng (2023).
+This repository describes the FAIR quality measures from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). The FAIR quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls (Wilkinson et al. 2016). The core concepts are deduced by decomposing the definitions through a concept mapping approach described in Peng (2023).
 
 The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
 
@@ -21,7 +21,7 @@ If you have any improvement suggestions, you can provide feedback following the 
 
 References
 ==========
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. Inter. J. Digital Earth. Under review.
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. Intern. J. Digital Earth. Under review.
 
 Peng, G., 2023: Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
 
