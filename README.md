@@ -7,8 +7,7 @@ The common set of FAIR vocabulary defined in Peng et al. (2024) is also presente
 
 Release Notes
 =============
-The contents in this repository is released under the [<span class="underline">Creative
-Commons Attribution 4.
+The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
 license. When using or reusing the framework, please provide attribution
 to this repository.
