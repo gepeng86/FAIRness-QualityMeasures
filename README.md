@@ -16,8 +16,8 @@ license. When using or reusing the described FAIR quality measures, common FAIR 
 to this repository.
 
 If you have any improvement suggestions, you can provide feedback following the following two options:
-** Contact Ge Peng (ge.peng@uah,edu),
-** Open an issue in this gitHub repo.
+* Contact Ge Peng (ge.peng@uah,edu),
+* Open an issue in this gitHub repo.
 
 References
 ==========
