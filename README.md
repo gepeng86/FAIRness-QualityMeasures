@@ -12,7 +12,7 @@ Release Notes
 =============
 The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
-license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and other relevant contents, please provide attribution
+license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
 to this repository.
 
 If you have any improvement suggestions, you can provide feedback following the following two options:
