@@ -1,9 +1,9 @@
 FAIR Quality Measures
 =====================
 
-This repository describes the FAIR quality measures from Peng et al. (2024). The FAIR quality measures are derived from the FAIR Principls (Wilkinson et al. 2016), utilizing a concept mapping approach.
+This repository describes the FAIR quality measures from Peng et al. (2024). The FAIR quality measures are a set of unique core concepts. The core concepts are deduced from the definitions of the FAIR Principls (Wilkinson et al. 2016) by decomposing the definitions through a concept mapping approach described in Peng (2023).
 
-The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specification. The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable quality information.
+The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable quality information.
 
 Release Notes
 =============
@@ -18,5 +18,7 @@ Community feedback and comments are welcome.
 References
 ==========
 Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. Inter. J. Digital Earth. Under review.
+
+Peng, G., 2023: Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
 
 Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data, 3,  https://doi.org/10.1038/sdata.2016.18
