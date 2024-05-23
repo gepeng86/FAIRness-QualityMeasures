@@ -1,6 +1,9 @@
 FAIR Quality Measures
 =====================
 
+Introduction
+=====================
+
 This repository describes the FAIR quality measures from Peng et al. (2024). The FAIR quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls (Wilkinson et al. 2016). The core concepts are deduced by decomposing the definitions through a concept mapping approach described in Peng (2023).
 
 The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
@@ -9,10 +12,12 @@ Release Notes
 =============
 The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
-license. When using or reusing the framework, please provide attribution
+license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and other relevant contents, please provide attribution
 to this repository.
 
-Community feedback and comments are welcome.
+If you have any improvement suggestions, you can provide feedback following the following two options:
+** Contact Ge Peng (ge.peng@uah,edu),
+** Open an issue in this gitHub repo.
 
 References
 ==========
