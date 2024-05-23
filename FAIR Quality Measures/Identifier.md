@@ -1,1 +1,1 @@
-Identifier refers a unique and persistent identifier for data and/or metadata.
+***Identifier*** refers a unique and persistent identifier for data and/or metadata.
