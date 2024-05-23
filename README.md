@@ -15,7 +15,7 @@ International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
 license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
 to this repository.
 
-If you have any improvement suggestions, you can provide feedback following the following two options:
+If you have any improvement suggestions, you can provide feedback using one of the following two options:
 * Contact Ge Peng (ge.peng@uah,edu),
 * Open an issue in this gitHub repo.
 
