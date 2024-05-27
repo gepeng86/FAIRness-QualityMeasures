@@ -1,1 +1,1 @@
-This folder contains images used in this repository.
+This folder contains the images used in this repository.
