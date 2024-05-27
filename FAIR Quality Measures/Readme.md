@@ -8,6 +8,6 @@ The FAIRness quality measures encapsulate the distinctive core concepts inherent
 
 They can serve as common, fundamental pillars of holistic FAIRness assessment workflows.
 
-<img src="https://github.com/gepeng86/FAIR-QualityMeasures/tree/main/_images_images/Peng_etal_2024-IJED-Figure3.jpg" style="width:5.75in;height:6.5in" />
+<img src="https://github.com/gepeng86/FAIR-QualityMeasures/tree/main/_images/Peng_etal_2024-IJED-Figure3.jpg" style="width:5.75in;height:6.5in" />
 
 
