@@ -36,29 +36,29 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
 ---------------------------------------------------------------------------- 
  Quality Measures, representing unique core concepts in the FAIR principles
 ---------------------------------------------------------------------------- 
-  * <span style="color:blue">***Identifier***</span> refers to a unique and persistent identifier for data and/or metadata.
+  *  ${\color{rgb(12,123,220)}Identifier}$, refers to a unique and persistent identifier for data and/or metadata.
     
-  * <span style="color:blue">***Rich Metadata***</span> refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
+  *  ${\color{rgb(12,123,220)}{textsf{Rich Metadata}}}$, refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” in the context of (re)use.
     
-  * <span style="color:blue">***Resource*** </span>refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
+  *  ${\color{rgb(12,123,220)}Resource}$, refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
     
-  * <span style="color:blue">***Protocol***</span> refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
+  * < ${\color{rgb(12,123,220)}Protocol}$, refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
     
-  * <span style="color:blue">***Procedure***</span> refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
+  *  ${\color{rgb(12,123,220)}Procedure}$, refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
     
-  * <span style="color:blue">***Language***</span> refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
+  *  ${\color{rgb(12,123,220)}*Language}$, refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
     
-  * <span style="color:blue">***Vocabulary***</span> refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
+  *  ${\color{rgb(12,123,220)}Vocabulary}$, refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
     
-  * <span style="color:blue">***Reference***</span> refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
+  *  ${\color{rgb(12,123,220)}Reference}$, refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
     
-  * <span style="color:blue">***Attribute***</span>, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
+  *  ${\color{rgb(12,123,220)}Attribute}$, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
     
-  * <span style="color:blue">***License***</span> refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
+  *  ${\color{rgb(12,123,220)}*License}$, refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
     
-  * <span style="color:blue">***Provenance***</span> refers to information on when and how the data or metadata was created and modified, and by whom, its sources and ownership throughout its lifecycle.
+  *  ${\color{rgb(12,123,220)}Provenance}$, refers to information on when and how the data or metadata was created and modified, and by whom, its sources and ownership throughout its lifecycle.
      
-  * <span style="color:blue">***Standard***</span> refers to an established or agreed-upon set of guidelines, rules, specifications, or criteria used as a reference or norms.
+  *  ${\color{rgb(12,123,220)}Standard}$, refers to an established or agreed-upon set of guidelines, rules, specifications, or criteria used as a reference or norms.
 
 References
 ==========
