@@ -1,1 +1,1 @@
- * <span style="color:blue">***License***</span> refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
+ *  ${\color{rgb(12,123,220)}License}$, refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
