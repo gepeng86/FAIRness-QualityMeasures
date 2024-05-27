@@ -1,0 +1,1 @@
+The FAIR quality measures encapsulate the distinctive core concepts inherent in individual FAIR principles. They are established by Peng et al. (2024) and and can serve as common, fundamental pillars of holistic FAIRness assessment workflows. 
