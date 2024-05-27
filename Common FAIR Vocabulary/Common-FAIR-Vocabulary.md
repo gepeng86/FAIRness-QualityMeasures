@@ -10,7 +10,7 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
 ------------------------------------------------------------------------------------------
  Dimensions, representing the four key non-functional requirements of the FAIR Principles
 ------------------------------------------------------------------------------------------
-  * ***Findability (F)*** 
+  * {\textbf{\emph{\textsf{Findability (F)}}}}$ 
   * ***Accessibility (A)***
   * ***Interoperability (I)***
   * ***Reusability (R)*** 
