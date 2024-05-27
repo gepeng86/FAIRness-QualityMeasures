@@ -1,0 +1,1 @@
+ * <span style="color:blue">***Procedure***</span> refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
