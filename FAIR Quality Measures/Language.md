@@ -1,1 +1,1 @@
- * <span style="color:blue">***Language***</span> refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
+ *  ${\color{rgb(12,123,220)}Language}$, refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
