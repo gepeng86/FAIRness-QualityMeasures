@@ -1,3 +1,1 @@
-***Rich Metadata*** refers a set of descriptors of data including those minimally required for search and discovery, 
-as well as those needed for understanding and reuse. This core concept is closely related to “Attribute” 
-in the context of (re)use.
+ * <span style="color:blue">***Rich Metadata***</span> refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This entity is closely related to “Attribute” in the context of (re)use.
