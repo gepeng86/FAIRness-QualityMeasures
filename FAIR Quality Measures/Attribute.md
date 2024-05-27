@@ -1,1 +1,1 @@
- * <p style="color:blue;">***Attribute***</p>, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
+ * <span style="color:blue;"><b><i>Attribute</i></b></span>, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
