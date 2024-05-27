@@ -23,7 +23,7 @@ If you have any improvement suggestions, you can provide feedback using one of t
 
 **References**
 ----------------
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Intern. J. Digital Earth. Under review._
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
 
 Peng, G., 2023: Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
 
