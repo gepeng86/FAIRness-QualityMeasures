@@ -1,1 +1,1 @@
- *  ${\color{rgb(12,123,220)}Rich Metadata}$, refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This entity is closely related to “Attribute” in the context of (re)use.
+ *  ${\color{rgb(12,123,220)}Rich \Metadata}$, refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This entity is closely related to “Attribute” in the context of (re)use.
