@@ -8,8 +8,8 @@ This repository describes the FAIR quality measures from [<span class="underline
 
 The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
 
-Release Notes
-=============
+**Release Notes**
+------------------
 The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
 license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
@@ -19,8 +19,8 @@ If you have any improvement suggestions, you can provide feedback using one of t
 * Contact Ge Peng (ge.peng@uah,edu),
 * Open an issue in this gitHub repo.
 
-References
-==========
+**References**
+----------------
 Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Intern. J. Digital Earth. Under review._
 
 Peng, G., 2023: Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
