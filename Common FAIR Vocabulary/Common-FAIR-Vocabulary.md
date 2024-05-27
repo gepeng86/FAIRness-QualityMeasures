@@ -10,10 +10,10 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
 ------------------------------------------------------------------------------------------
  Dimensions, representing the four key non-functional requirements of the FAIR Principles
 ------------------------------------------------------------------------------------------
-  * Findability (F) 
-  * Accessibility (A)
-  * Interoperability (I)
-  * Reusability (R) 
+  * ***Findability (F)*** 
+  * ***Accessibility (A)***
+  * ***Interoperability (I)***
+  * ***Reusability (R)*** 
 
 ----------------------------------------------------------
  Sub-Classes, representing 15 individual FAIR principles
@@ -42,11 +42,11 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
     
   *  ${\color{rgb(12,123,220)}Resource}$, refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
     
-  * < ${\color{rgb(12,123,220)}Protocol}$, refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
+  *  ${\color{rgb(12,123,220)}Protocol}$, refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
     
   *  ${\color{rgb(12,123,220)}Procedure}$, refers to a set of defined and implemented specified rules and roles in the data search and retrieval infrastructure for user authentication (e.g., Single Sign-on with Two-Factor-Authentication) and access control (user permission/profile).
     
-  *  ${\color{rgb(12,123,220)}*Language}$, refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
+  *  ${\color{rgb(12,123,220)}Language}$, refers to a formal system used to express the context of data and/or metadata in a format such as XML (eXtensible Markup Language) and RDF (Resource Description Framework) that can be utilized by machines.
     
   *  ${\color{rgb(12,123,220)}Vocabulary}$, refers to a standardized set of terms and their meanings or definitions; A data vocabulary may consist of terms and definitions that describe the types of data, their characteristics, and the relationships between different data elements. A metadata vocabulary includes terms and definitions used to describe metadata attributes, properties, and relationships.
     
@@ -54,7 +54,7 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
     
   *  ${\color{rgb(12,123,220)}Attribute}$, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
     
-  *  ${\color{rgb(12,123,220)}*License}$, refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
+  *  ${\color{rgb(12,123,220)}License}$, refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
     
   *  ${\color{rgb(12,123,220)}Provenance}$, refers to information on when and how the data or metadata was created and modified, and by whom, its sources and ownership throughout its lifecycle.
      
