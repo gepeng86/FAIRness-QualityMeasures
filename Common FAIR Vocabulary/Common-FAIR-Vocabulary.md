@@ -52,7 +52,7 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
     
   * <span style="color:blue">***Reference***</span> refers to a reference to another resource that provides additional relevant and useful information, including references to published documents (journal articles, reports, conference proceeding papers, etc.) on data product algorithms and validation, (meta)data standard specifications, as well as that to previous metadata records, if appropriate.
     
-  * <span style="color:blue">***Attribute***</span> is closely related to Rich Metadata and refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
+  * <span style="color:blue">***Attribute***</span>, closely related to Rich Metadata, refers to a set of attributes that focus on providing information for use suitability and conditions of the discovered data.
     
   * <span style="color:blue">***License***</span> refers to a license that describes under which conditions the discovered data can be used; To facilitate reuse, the license chosen should be as open as possible and unambiguous to both humans and machines.
     
