@@ -61,9 +61,9 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
      
   *  ${\color{rgb(12,123,220)}Standard}$, refers to an established or agreed-upon set of guidelines, rules, specifications, or criteria used as a reference or norms.
 
------------
-References
-==========
+--------------
+**References**
+==============
 Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. *Intern. J. Digital Earth*. Under review.
 
 Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. *Sci. Data*,  3,  https://doi.org/10.1038/sdata.2016.18  
