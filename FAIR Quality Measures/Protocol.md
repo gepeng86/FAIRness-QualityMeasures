@@ -1,1 +1,1 @@
- * <span style="color:blue">***Protocol***</span> refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
+ *  ${\color{rgb(12,123,220)}Protocol}$, refers to a computational agent such as HTTPs (Secure Hypertext Transfer Protocol) or FTP (File Transfer Protocol) that facilitates efficient information retrieval.
