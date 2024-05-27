@@ -8,7 +8,7 @@ This repository describes the FAIRness quality measures established by [<span cl
 
 The FAIRness quality measures can serve as common, fundamental pillars of holistic FAIRness assessment workflows.
 
-The common set of FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
+A set of common FAIR vocabulary defined in Peng et al. (2024) is also presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
 
 **Release Notes**
 ------------------
