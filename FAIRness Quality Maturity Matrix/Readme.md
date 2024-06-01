@@ -7,7 +7,6 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 <table>
 <thead>
 <tr class="header">
-<th></th>
 <th><p><strong>Resource</strong></th>
 <th><p><strong>URL</strong></th>
 <th><p><strong>Commments</strong></th>
