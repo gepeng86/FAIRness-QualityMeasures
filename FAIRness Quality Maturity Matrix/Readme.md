@@ -218,7 +218,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 -------------
 
 **References**
-
+----------------
 Devaraju, A., R. Huber, M. Mokrane, P. Herterich, L. Cepinskas, J. de Vries, H. L'Hours, J. Davidson, and W. Angus. 2022. “FAIRsFAIR Data Object Assessment Metrics (0.5).” _Zenodo_. https://doi.org/10.5281/zenodo.6461229 
 
 Fenner, M., M. Crosas, J.S. Grethe, D. Kennedy, H. Hermjakob, and others. 2019. “A data citation roadmap for scholarly data repositories.” _Sci. Data_ 6. https://doi.org/10.1038/s41597-019-0031-8
