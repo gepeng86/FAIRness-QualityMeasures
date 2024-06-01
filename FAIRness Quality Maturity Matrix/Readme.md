@@ -14,12 +14,9 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
-<style type="text/css">
-  table tr#ROW1  {background-color:lightblue; color:black;}
-</style>
 <table>
 <thead>
-<tr class="header" >
+<tr class="even" >
 <th><p><strong> </strong></p>
 <p><strong>FAIR ID</strong></p></th>
 <th><p><strong> </strong></p>
