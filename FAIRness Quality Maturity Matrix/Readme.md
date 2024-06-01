@@ -1,7 +1,7 @@
 **FAIRness Quality Maturity Matrix (FAIR-QMM)**
 -----------------------------------------------
 
-This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2022; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1.
+This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1.
 
 **Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
 <table>
@@ -19,31 +19,26 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 </td>
 <td>Questionnaire with a drop-down menu for each question; a total of 12 questions
 </td>
-<td>1.3</td>
 </tr>
 <tr class="even">
 <td>GO-FAIR FAIR Implementation Questionnaires</td>
-<td>2.1</td>
-<td>..</td>
-<td>..</td>
+<td>https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/</td>
+<td>21 questions with associated FAIR enabling resource types</td>
 </tr>
 <tr class="odd">
 <td>GO-FAIR Foundation FAIR Interpretations</td>
-<td>3.1</td>
-<td>..</td>
-<td>..</td>
+<td>https://www.gofair.foundation/interpretation</td>
+<td>Interpretations are primarily based on Jacobsen et al. (2022)</td>
 </tr>
 <tr class="even">
 <td>FAIRsFAIR F-UJI Tool</td>
-<td>4.1</td>
-<td>..</td>
-<td>..</td>
+<td>https://www.f-uji.net/index.php?action=home</td>
+<td>Automatic tool with rules and automatic checks based on 17 of 41 RDA FAIR Data Maturity Indicators (Devaraju et al. 2022)</td>
 </tr>
 <tr class="odd">
 <td>FAIRsharing FAIR Metrics</td>
-<td>5.1</td>
-<td>..</td>
-<td>..</td>
+<td>https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators</td>
+<td>A set of 14 universal metric (Wilkinson et al. 2018)</td>
 </tr>
 </tbody>
 </table>
