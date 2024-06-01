@@ -46,7 +46,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><strong>Rich Metadata</strong></td>
 <td><p> Data are described by basic/minimal metadata </p></td>
 <td><p> L1 + core metadata elements for data discovery </p></td>
-<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+<td><p> L2 + comprehensive metadata elements for enhanced data discovery </p></td>
 </tr>
 <tr class="odd">
 <td><strong>F3</strong></td>
