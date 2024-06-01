@@ -1,7 +1,50 @@
 **FAIRness Quality Maturity Matrix (FAIR-QMM)**
 -----------------------------------------------
 
-This folder contains the FAIR-QMM for digital scientific data products as defined  in Peng et al. (2024). The FAIR-QMM is buildnig on the set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2022; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the following online resources.
+This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2022; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1.
+
+**Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p><strong>Resource</strong></th>
+<th><p><strong>URL</strong></th>
+<th><p><strong>Commments</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>ARDC FAIR Data Self-Assessment Tool</strong></td>
+<td>1.1</td>
+<td>1.2</td>
+</tr>
+<tr class="even">
+<td><strong>GO-FAIR FAIR Implementation Questionnaires</strong></td>
+<td>2.1</td>
+<td>..</td>
+</tr>
+<tr class="odd">
+<td><strong>GO-FAIR Foundation FAIR Interpretations</strong></td>
+<td>3.1</td>
+<td>..</td>
+</tr>
+<tr class="even">
+<td><strong>FAIRsFAIR F-UJI Tool</strong></td>
+<td>4.1</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr class="odd">
+<td><strong>FAIRsharing FAIR Metrics</strong></td>
+<td>5.1</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 **References**
 
