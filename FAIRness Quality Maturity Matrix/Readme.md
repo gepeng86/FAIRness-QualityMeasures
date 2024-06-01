@@ -199,11 +199,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + comprehensive provenance based on community standards </p></td>
 </tr>
 <tr class="even">
-<td><strong>F4</strong></td>
-<td><strong>Resource</strong></td>
-<td><p> Data and metadata are indexed in resources </p></td>
-<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
-<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+<td><strong>R1.3</strong></td>
+<td><strong>Standard</strong></td>
+<td><p> Data and metadata meet standards </p></td>
+<td><p> L1 + standards are domain relevant </p></td>
+<td><p> L2 + standards are community standards established by authorized standard bodies </p></td>
 </tr>
 </tbody>
 </table>
