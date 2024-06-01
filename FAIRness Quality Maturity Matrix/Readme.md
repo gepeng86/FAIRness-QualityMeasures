@@ -185,11 +185,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + attributes are accurate and comprehensive for (re)use </p></td>
 </tr>
 <tr class="even">
-<td><strong>F2</strong></td>
-<td><strong>Rich Metadata</strong></td>
-<td><p> Data are described by basic/minimal metadata </p></td>
-<td><p> L1 + core metadata elements for data discovery </p></td>
-<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+<td><strong>R1.1</strong></td>
+<td><strong>License</strong></td>
+<td><p> Data and metadata are released with a usage license </p></td>
+<td><p> L1 + licenses are accessible </p></td>
+<td><p> L2 + licenses are clear and machine-readable </p></td>
 </tr>
 <tr class="odd">
 <td><strong>F3</strong></td>
