@@ -19,16 +19,16 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 ｜**FAIR ID** ｜**Quality Measure** ｜**Level 1 Minimal Stage** ｜**Level 2 Intermediate Stage** | **Level 3 Optimal Stage** |
 | :---:       | :---:               | :---                      |  :---                         | :---                     |
 | **F1** | **Identifier** | Data and metadata are assigned identifiers | L1 + identifiers are either: i) eternally persistent but not globally unique; ii) globally unique but not always persistent; iii) unique within a particular scientific discipline |L1 + identifiers are globally unique and eternally persistent |
-| **Explanations** | Any identifier, usually just locally unique within an internal database or (meta)data management system |
+| | **Explanations** | Any identifier, usually just locally unique within an internal database or (meta)data management system |
 Identifiers that are unique within a particular domain/group; many are valid only for the duration of a project; may or may not be resolvable |
 Identifiers that are globally unique and permanently persistent - they should also be resolvable which implies “the persistence of the binding between identifier and object and the persistence of the service to resolve from the identifier to the object” (Treloar n.d.) but it is explicitly addressed in A1. |
-| **Examples** |Identifiers for individual NASA CMR dataset-level and granule-level metadata records, e.g., C1996881146-POCLOUD; G2743390617-POCLOUD 
+| | **Examples** |Identifiers for individual NASA CMR dataset-level and granule-level metadata records, e.g., C1996881146-POCLOUD; G2743390617-POCLOUD 
 | Universally Unique Identifier (UUID) or Uniform Resource Locator (URL), which is globally unique but not necessarily persistent. 
 International Virtual Observatory Identifier (VOID) - which is VO-specific - but can actually be globally unique.
 | Digital Object Identifiers (DOIs) - also resolvable and citable.
 Other widely used globally unique and persistent identifiers that are resolvable, include Handle, Persistent uniform resource locator (PURL), w3id, Archival Resource Keys (ARK). 
 Utilizing a Globally UNique Persistent Resolvable Identifier (GUPRI) ensures the compliance to both F1 and A1. |
-| **Harmonized Indicators** | F1-01D; F1-01DM 
+| | **Harmonized Indicators** | F1-01D; F1-01DM 
 | Meeting some, but not all, of the following indicators: F1-02D; F1-02M; F1-03D; F1-03M
 | F1-02D; F1-02M; F1-03D; F1-03M |
 
