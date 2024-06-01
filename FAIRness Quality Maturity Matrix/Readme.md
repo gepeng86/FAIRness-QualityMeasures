@@ -135,11 +135,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>F1</strong></td>
-<td><strong>Identifier</strong></td>
-<td><p> Data and metadata are assigned identifiers </p></td>
-<td><p> L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline </p></td>
-<td><p> L1 + identifiers are globally unique and eternally persistent </p></td>
+<td><strong>I1</strong></td>
+<td><<p>strong>Language</strong> (knowledge Representation) </p> </td>
+<td><p> Data and metadata use languages for knowledge representation </p></td>
+<td><p> L1 + languages are formal and accessible </p></td>
+<td><p> L2 + languages are shared and broadly applicable </p></td>
 </tr>
 <tr class="even">
 <td><strong>F2</strong></td>
