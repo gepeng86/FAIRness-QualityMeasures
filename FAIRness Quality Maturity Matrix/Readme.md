@@ -100,8 +100,8 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tr>
 <tr class="odd">
 <td><strong>A1.2</strong></td>
-<td><p><strong>Communication Protocol - Procedure </strong></p></td>
-<td><p> The protocols allow for procedures </p></td>
+<td><p><strong>Procedure</strong></p></td>
+<td><p> The communication protocols allow for procedures </p></td>
 <td><p> L1 + procedures include that for authentication </p></td>
 <td><p> L2 + procedures include that for authorization </p></td>
 </tr>
