@@ -13,10 +13,12 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 | FAIRsharing FAIR Metrics | https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators | A set of 14 universal metric (Wilkinson et al. 2018). |
 
 
-The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
+The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
+
+**Table A2.** 
 <table>
 <thead>
-<tr class="even" >
+<tr class="header" >
 <th><p><strong> </strong></p>
 <p><strong>FAIR ID</strong></p></th>
 <th><p><strong> </strong></p>
@@ -36,6 +38,13 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p>Data and metadata are assigned identifiers</p></td>
 <td><p>L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline</p></td>
 <td><p>L1 + identifiers are globally unique and eternally persistent</p></td>
+</tr>
+<tr class="even">
+<td><strong>F2</strong></td>
+<td><strong>Rich Metadata</strong></td>
+<td><p>Data are described by basic/minimal metadata</p></td>
+<td><p>L1 + core metadata elements for data discoverye</p></td>
+<td><p>L1 + comprehensive metadata elements for enhanced data discovery</p></td>
 </tr>
 </tbody>
 </table>
