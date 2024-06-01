@@ -14,12 +14,12 @@ A common FAIR vocabulary defined in Peng et al. (2024) is also presented with de
 ------------------
 The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
-license. When using or reusing the described FAIR quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
+license. When using or reusing the described FAIRness quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
 to this repository.
 
 If you have any improvement suggestions, you can provide feedback using one of the following two options:
 * Contact Ge Peng (ge.peng@uah,edu),
-* Open an issue in this gitHub repo.
+* Open an issue or start a discussion in this gitHub repo.
 
 **References**
 ----------------
