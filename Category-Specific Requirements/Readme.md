@@ -15,4 +15,4 @@ References
 
 Bailo, D. (2019). Four-stages FAIR Roadmap - FAIR "Pyramid". Zenodo. https://doi.org/10.5281/zenodo.3299353
 
-Peng, G. (2023). Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators (v01r01-20230523). Updated 2024. Zenodo. https://doi.org/10.5281/zenodo.7896947
+Peng, G. (2023). Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators. Updated 2024. Zenodo. https://doi.org/10.5281/zenodo.7896947
