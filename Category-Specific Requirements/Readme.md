@@ -12,4 +12,5 @@ Bailo, D. (2019). Four-stages FAIR Roadmap - FAIR "Pyramid". Zenodo. https://doi
 
 Peng, G. (2023). Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators (v01r01-20230523). Updated 2024. Zenodo. https://doi.org/10.5281/zenodo.7896947
 
-<img src="[Four Essential Components of the FAIR Principles - Capacity & Category-Specific Requirements ](https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_FAIR_4-Components_Star_v00r03.jpg)" />
+**Figure*** Four Essential Components of the FAIR Principles - Capacity & Category-Specific Requirements
+<img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_FAIR_4-Components_Star_v00r03.jpg" width="650" />
