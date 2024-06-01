@@ -1,7 +1,7 @@
 **FAIRness Quality Maturity Matrix (FAIR-QMM)**
 -----------------------------------------------
 
-This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1. The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15, accompanied by explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023). The examples provided serve as references and do not indicate any endorsement or preference by the authors regarding their implementation.
+This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1. 
 
 **Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
 | **Resource** | **URL** | **Commments** |
@@ -13,6 +13,7 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 | FAIRsharing FAIR Metrics | https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators | A set of 14 universal metric (Wilkinson et al. 2018). |
 
 
+The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15, accompanied by explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023). The examples provided serve as references and do not indicate any endorsement or preference by the authors regarding their implementation.
 
 
 **References**
