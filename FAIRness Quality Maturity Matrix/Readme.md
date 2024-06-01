@@ -95,11 +95,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + protocols are universally implementable  </p></td>
 </tr>
 <tr class="odd">
-<td><strong>F3</strong></td>
-<td>Linked ID</td>
-<td><p> Metadata includes data identifier </p></td>
-<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
-<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
+<td><strong>A1.2</strong></td>
+<td><p><strong>Communication Protocol</strong> - Procedure</p></td>
+<td><p> The protocols allow for procedures </p></td>
+<td><p> L1 + procedures include that for authentication  </p></td>
+<td><p> L2 + procedures include that for authorization  </p></td>
 </tr>
 <tr class="even">
 <td><strong>F4</strong></td>
