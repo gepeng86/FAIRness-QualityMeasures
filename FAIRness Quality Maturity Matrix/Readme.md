@@ -136,7 +136,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <tbody>
 <tr class="odd">
 <td><strong>I1</strong></td>
-<td><<p><strong>Language</strong> (knowledge Representation) </p> </td>
+<td><p><strong>Language</strong> (knowledge Representation) </p> </td>
 <td><p> Data and metadata use languages for knowledge representation </p></td>
 <td><p> L1 + languages are formal and accessible </p></td>
 <td><p> L2 + languages are shared and broadly applicable </p></td>
