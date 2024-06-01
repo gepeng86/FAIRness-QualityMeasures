@@ -142,11 +142,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + languages are shared and broadly applicable </p></td>
 </tr>
 <tr class="even">
-<td><strong>F2</strong></td>
-<td><strong>Rich Metadata</strong></td>
-<td><p> Data are described by basic/minimal metadata </p></td>
-<td><p> L1 + core metadata elements for data discovery </p></td>
-<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+<td><strong>I2</strong></td>
+<td><strong>Vocabulary</strong></td>
+<td><p> Data and metadata use vocabularies </p></td>
+<td><p> L1 + vocabulary is managed, findable and accessible; assigned a GUPRI to the vocabulary itself </p></td>
+<td><p> L2 + vocabulary is governed, version-controlled, interoperable and reusable; with a GUPRI assigned to each term within the vocabulary </p></td>
 </tr>
 <tr class="odd">
 <td><strong>F3</strong></td>
