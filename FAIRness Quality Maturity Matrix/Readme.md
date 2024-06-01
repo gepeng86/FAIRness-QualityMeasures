@@ -12,7 +12,7 @@ This folder contains the description of the FAIR-QMM for digital scientific data
 | FAIRsFAIR F-UJI Tool | https://www.f-uji.net/index.php?action=home | Automatic tool with rules and automatic checks based on 17 of 41 RDA FAIR Data Maturity Indicators (Devaraju et al. 2022). |
 | FAIRsharing FAIR Metrics | https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators | A set of 14 universal metric (Wilkinson et al. 2018). |
 
-
+---------------------
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
 
@@ -65,6 +65,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
+-----------
 
 **Table A3.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Accessibility_ dimension of the FAIR Principles
 <table>
@@ -114,6 +115,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
+--------------
 
 **Table A4.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Interoperability_ dimension of the FAIR Principles
 <table>
@@ -163,6 +165,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
+---------------
 
 **Table A5.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Reusability_ dimension of the FAIR Principles
 <table>
@@ -212,6 +215,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
+-------------
 
 **References**
 
