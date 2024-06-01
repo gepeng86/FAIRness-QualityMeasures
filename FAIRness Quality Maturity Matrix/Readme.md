@@ -192,11 +192,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + licenses are clear and machine-readable </p></td>
 </tr>
 <tr class="odd">
-<td><strong>F3</strong></td>
-<td>Linked ID</td>
-<td><p> Metadata includes data identifier </p></td>
-<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
-<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
+<td><strong>R1.2</strong></td>
+<td><strong>Provenance</strong></td>
+<td><p> Data and metadata are associated with basic provenance </p></td>
+<td><p> L1 + limited provenance information based on domain standards </p></td>
+<td><p> L2 + comprehensive provenance based on community standards </p></td>
 </tr>
 <tr class="even">
 <td><strong>F4</strong></td>
