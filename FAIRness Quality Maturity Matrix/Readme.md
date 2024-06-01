@@ -3,7 +3,7 @@
 
 This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of [FAIRness quality measures](https://github.com/gepeng86/FAIR-QualityMeasures/tree/main/FAIR%20Quality%20Measures) and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1. 
 
-**Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
+**Table A1**. A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
 | **Resource** | **URL** | **Commments** |
 |    :---:     |  :---:  |  :---         |
 | ARDC FAIR Data Self-Assessment Tool | https://ardc.edu.au/resource/fair-data-self-assessment-tool/ | Questionnaire with a drop-down menu for each question; a total of 12 questions. |
