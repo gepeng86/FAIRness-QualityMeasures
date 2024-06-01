@@ -6,49 +6,11 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 **Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
 | **Resource** | **URL** | **Commments** |
 |    :---:     |  :---:  |  :---         |
-| ARDC FAIR Data Self-Assessment Tool | https://ardc.edu.au/resource/fair-data-self-assessment-tool/ | Questionnaire with a drop-down menu for each question; a total of 12 questions |
-| GO-FAIR FAIR Implementation Questionnaires | https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/ | 21 questions with associated FAIR enabling resource types |
-| GO-FAIR Foundation FAIR Interpretations | https://www.gofair.foundation/interpretation | Interpretations are primarily based on Jacobsen et al. (2022) |
-
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Resource</strong></th>
-<th><strong>URL</strong></th>
-<th><strong>Commments</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>ARDC FAIR Data Self-Assessment Tool</td>
-<td>https://ardc.edu.au/resource/fair-data-self-assessment-tool/
-</td>
-<td>Questionnaire with a drop-down menu for each question; a total of 12 questions
-</td>
-</tr>
-<tr class="even">
-<td>GO-FAIR FAIR Implementation Questionnaires</td>
-<td>https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/</td>
-<td>21 questions with associated FAIR enabling resource types</td>
-</tr>
-<tr class="odd">
-<td>GO-FAIR Foundation FAIR Interpretations</td>
-<td>https://www.gofair.foundation/interpretation</td>
-<td>Interpretations are primarily based on Jacobsen et al. (2022)</td>
-</tr>
-<tr class="even">
-<td>FAIRsFAIR F-UJI Tool</td>
-<td>https://www.f-uji.net/index.php?action=home</td>
-<td>Automatic tool with rules and automatic checks based on 17 of 41 RDA FAIR Data Maturity Indicators (Devaraju et al. 2022)</td>
-</tr>
-<tr class="odd">
-<td>FAIRsharing FAIR Metrics</td>
-<td>https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators</td>
-<td>A set of 14 universal metric (Wilkinson et al. 2018)</td>
-</tr>
-</tbody>
-</table>
+| ARDC FAIR Data Self-Assessment Tool | https://ardc.edu.au/resource/fair-data-self-assessment-tool/ | Questionnaire with a drop-down menu for each question; a total of 12 questions. |
+| GO-FAIR FAIR Implementation Questionnaires | https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/ | 21 questions with associated FAIR enabling resource types. |
+| GO-FAIR Foundation FAIR Interpretations | https://www.gofair.foundation/interpretation | Interpretations are primarily based on Jacobsen et al. (2020). |
+| FAIRsFAIR F-UJI Tool | https://www.f-uji.net/index.php?action=home | Automatic tool with rules and automatic checks based on 17 of 41 RDA FAIR Data Maturity Indicators (Devaraju et al. 2022). |
+| FAIRsharing FAIR Metrics | https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators | A set of 14 universal metric (Wilkinson et al. 2018). |
 
 
 
