@@ -107,10 +107,10 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tr>
 <tr class="even">
 <td><strong>A2</strong></td>
-<td><strong>Resource</strong></td>
-<td><p> Data and metadata are indexed in resources </p></td>
-<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
-<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+<td><p>Metadata Longevity</p></td>
+<td><p> Metadata associated with the latest version of data are accessible online </p></td>
+<td><p> L1 + Metadata associated with the last previous version of data are accessible online </p></td>
+<td><p> Metadata associated with all versions of data are accessible online permanently </p></td>
 </tr>
 </tbody>
 </table>
