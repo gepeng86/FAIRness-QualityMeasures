@@ -15,7 +15,7 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
 
-**Table A2.** 
+**Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the Findability dimension
 <table>
 <thead>
 <tr class="header" >
@@ -35,16 +35,30 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <tr class="odd">
 <td><strong>F1</strong></td>
 <td><strong>Identifier</strong></td>
-<td><p>Data and metadata are assigned identifiers</p></td>
-<td><p>L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline</p></td>
-<td><p>L1 + identifiers are globally unique and eternally persistent</p></td>
+<td><p> Data and metadata are assigned identifiers </p></td>
+<td><p> L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline </p></td>
+<td><p> L1 + identifiers are globally unique and eternally persistent </p></td>
 </tr>
 <tr class="even">
 <td><strong>F2</strong></td>
 <td><strong>Rich Metadata</strong></td>
-<td><p>Data are described by basic/minimal metadata</p></td>
-<td><p>L1 + core metadata elements for data discoverye</p></td>
-<td><p>L1 + comprehensive metadata elements for enhanced data discovery</p></td>
+<td><p> Data are described by basic/minimal metadata </p></td>
+<td><p> L1 + core metadata elements for data discovery </p></td>
+<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+</tr>
+<tr class="odd">
+<td><strong>F3</strong></td>
+<td>Linked ID</td>
+<td><p> Data and metadata are indexed in resources </p></td>
+<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
+<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata </p></td>
+</tr>
+<tr class="even">
+<td><strong>F4</strong></td>
+<td><strong>Resource</strong></td>
+<td><p> Data are described by basic/minimal metadata </p></td>
+<td><p> L1 + core metadata elements for data discovery </p></td>
+<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
 </tr>
 </tbody>
 </table>
