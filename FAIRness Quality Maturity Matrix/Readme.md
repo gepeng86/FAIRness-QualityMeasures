@@ -15,8 +15,8 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15, accompanied by explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023). The examples provided serve as references and do not indicate any endorsement or preference by the authors regarding their implementation. Additional references can be found in Peng et al. (2024).
 
-**A2.1.** FAIR ID, quality measure (non-bolded entity denotes just core concept), definitions of Level 1, 2, and 3 maturity stages, along with explanations, examples, and associated harmonized indicators for the F1 principle.
-｜**FAIR ID** ｜**Quality Measure** ｜**Level 1 Minimal Stage** ｜**Level 2 Intermediate Stage** | **Level 3Optimal Stage** |
+**Table A2.1.** FAIR ID, quality measure (non-bolded entity denotes just core concept), definitions of Level 1, 2, and 3 maturity stages, along with explanations, examples, and associated harmonized indicators for the F1 principle.
+｜**FAIR ID** ｜**Quality Measure** ｜**Level 1 Minimal Stage** ｜**Level 2 Intermediate Stage** | **Level 3 Optimal Stage** |
 | :---:       | :---:               | :---                      |  :---                         | :---                     |
 | **F1** | **Identifier** | Data and metadata are assigned identifiers | L1 + identifiers are either: i) eternally persistent but not globally unique; ii) globally unique but not always persistent; iii) unique within a particular scientific discipline |L1 + identifiers are globally unique and eternally persistent |
 | **Explanations** | Any identifier, usually just locally unique within an internal database or (meta)data management system |
