@@ -15,12 +15,27 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
 
-**Table A2.1.** FAIR ID, quality measure (non-bolded entity denotes just core concept), definitions of Level 1, 2, and 3 maturity stages, along with explanations, examples, and associated harmonized indicators for the F1 principle.
+**Table A2.1.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages.
 | **FAIR ID** ｜ **Quality Measure** ｜ **Level 1 Minimal Stage** ｜ **Level 2 Intermediate Stage** | **Level 3 Optimal Stage** |
 | :---------: | :------------------: | :------------------------  | :----------------------------- | :------------------------ |
 | **F1** | **Identifier** | Data and metadata are assigned identifiers | L1 `+` identifiers are either eternally persistent but not globally unique, or globally unique but not always persistent or unique within a particular scientific discipline | L1 `+` identifiers are globally unique and eternally persistent |
 
-
+<table>
+<thead>
+<tr class="header">
+<th><p><strong> </strong></p>
+<p><strong>FAIR ID</strong></p></th>
+<th><p><strong> </strong></p>
+<p><strong>Quality Measure</strong></p></th>
+<th><p><strong>Level 1</strong></p>
+<p><strong>Minimal Stage</strong></p></th>
+<th><p><strong>Level 2</strong></p>
+<p><strong>Intermediate Stage</strong></p></th>
+<th><p><strong>Level 3</strong></p>
+<p><strong>Optimal Stage</strong></p></th>
+</tr>
+</thead>
+</table>
 
 
 **References**
