@@ -15,7 +15,7 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 
 The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
 
-**Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the Findability dimension
+**Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Findability_ dimension of the FAIR Principles
 <table>
 <thead>
 <tr class="header" >
@@ -63,6 +63,149 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
+**Table A3.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Accessibility_ dimension of the FAIR Principles
+<table>
+<thead>
+<tr class="header" >
+<th><p><strong> </strong></p>
+<p><strong>FAIR ID</strong></p></th>
+<th><p><strong> </strong></p>
+<p><strong>Quality Measure</strong></p></th>
+<th><p><strong>Level 1</strong></p>
+<p><strong>Minimal Stage</strong></p></th>
+<th><p><strong>Level 2</strong></p>
+<p><strong>Intermediate Stage</strong></p></th>
+<th><p><strong>Level 3</strong></p>
+<p><strong>Optimal Stage</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A1</strong></td>
+<td><p><strong>Communication Protocol</strong> - Retrievable </p></td>
+<td><p> The communication protocols for retrieving data and metadata are open </p></td>
+<td><p> L1 + protocols are free </p></td>
+<td><p> L2 + protocols are universally implementable </p></td>
+</tr>
+<tr class="even">
+<td><strong>A1.1</strong></td>
+<td><strong>Communication Protocol</strong></td>
+<td><p> The communication protocols for retrieving data and metadata are open </p></td>
+<td><p> L1 + protocols are free </p></td>
+<td><p> L2 + protocols are universally implementable  </p></td>
+</tr>
+<tr class="odd">
+<td><strong>F3</strong></td>
+<td>Linked ID</td>
+<td><p> Metadata includes data identifier </p></td>
+<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
+<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
+</tr>
+<tr class="even">
+<td><strong>F4</strong></td>
+<td><strong>Resource</strong></td>
+<td><p> Data and metadata are indexed in resources </p></td>
+<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
+<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+</tr>
+</tbody>
+</table>
+
+**Table A4.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Interoperability_ dimension of the FAIR Principles
+<table>
+<thead>
+<tr class="header" >
+<th><p><strong> </strong></p>
+<p><strong>FAIR ID</strong></p></th>
+<th><p><strong> </strong></p>
+<p><strong>Quality Measure</strong></p></th>
+<th><p><strong>Level 1</strong></p>
+<p><strong>Minimal Stage</strong></p></th>
+<th><p><strong>Level 2</strong></p>
+<p><strong>Intermediate Stage</strong></p></th>
+<th><p><strong>Level 3</strong></p>
+<p><strong>Optimal Stage</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>F1</strong></td>
+<td><strong>Identifier</strong></td>
+<td><p> Data and metadata are assigned identifiers </p></td>
+<td><p> L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline </p></td>
+<td><p> L1 + identifiers are globally unique and eternally persistent </p></td>
+</tr>
+<tr class="even">
+<td><strong>F2</strong></td>
+<td><strong>Rich Metadata</strong></td>
+<td><p> Data are described by basic/minimal metadata </p></td>
+<td><p> L1 + core metadata elements for data discovery </p></td>
+<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+</tr>
+<tr class="odd">
+<td><strong>F3</strong></td>
+<td>Linked ID</td>
+<td><p> Metadata includes data identifier </p></td>
+<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
+<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
+</tr>
+<tr class="even">
+<td><strong>F4</strong></td>
+<td><strong>Resource</strong></td>
+<td><p> Data and metadata are indexed in resources </p></td>
+<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
+<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+</tr>
+</tbody>
+</table>
+
+**Table A5.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Reusability_ dimension of the FAIR Principles
+<table>
+<thead>
+<tr class="header" >
+<th><p><strong> </strong></p>
+<p><strong>FAIR ID</strong></p></th>
+<th><p><strong> </strong></p>
+<p><strong>Quality Measure</strong></p></th>
+<th><p><strong>Level 1</strong></p>
+<p><strong>Minimal Stage</strong></p></th>
+<th><p><strong>Level 2</strong></p>
+<p><strong>Intermediate Stage</strong></p></th>
+<th><p><strong>Level 3</strong></p>
+<p><strong>Optimal Stage</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>F1</strong></td>
+<td><strong>Identifier</strong></td>
+<td><p> Data and metadata are assigned identifiers </p></td>
+<td><p> L1 + identifiers are either: i) eternally persistent but not globally unique, ii) globally unique but not always persistent, or iii) unique within a particular scientific discipline </p></td>
+<td><p> L1 + identifiers are globally unique and eternally persistent </p></td>
+</tr>
+<tr class="even">
+<td><strong>F2</strong></td>
+<td><strong>Rich Metadata</strong></td>
+<td><p> Data are described by basic/minimal metadata </p></td>
+<td><p> L1 + core metadata elements for data discovery </p></td>
+<td><p> L1 + comprehensive metadata elements for enhanced data discovery </p></td>
+</tr>
+<tr class="odd">
+<td><strong>F3</strong></td>
+<td>Linked ID</td>
+<td><p> Metadata includes data identifier </p></td>
+<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
+<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
+</tr>
+<tr class="even">
+<td><strong>F4</strong></td>
+<td><strong>Resource</strong></td>
+<td><p> Data and metadata are indexed in resources </p></td>
+<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
+<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+</tr>
+</tbody>
+</table>
 
 **References**
 
