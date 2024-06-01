@@ -83,9 +83,9 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <tr class="odd">
 <td><strong>A1</strong></td>
 <td><p><strong>Communication Protocol</strong> - Retrievable </p></td>
-<td><p> The communication protocols for retrieving data and metadata are open </p></td>
-<td><p> L1 + protocols are free </p></td>
-<td><p> L2 + protocols are universally implementable </p></td>
+<td><p> Data and metadata identifiers resolve to the digital data and metadata objects, respectively </p></td>
+<td><p> L1 + using i) non-standard-based web services; ii) standardized within a particular domain </p></td>
+<td><p> L2 + protocols are: i) standard-based; ii) based on community standards  </p></td>
 </tr>
 <tr class="even">
 <td><strong>A1.1</strong></td>
