@@ -149,18 +149,11 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p> L2 + vocabulary is governed, version-controlled, interoperable and reusable; with a GUPRI assigned to each term within the vocabulary </p></td>
 </tr>
 <tr class="odd">
-<td><strong>F3</strong></td>
-<td>Linked ID</td>
-<td><p> Metadata includes data identifier </p></td>
-<td><p> L1 + data identifier is clearly and explicitly included in collection-level metadata record  </p></td>
-<td><p> L2 + data identifier is explicitly included in machine-readable  collection- and file-level metadata  </p></td>
-</tr>
-<tr class="even">
-<td><strong>F4</strong></td>
-<td><strong>Resource</strong></td>
-<td><p> Data and metadata are indexed in resources </p></td>
-<td><p> L1 + resources for data and metadata are searchable with basic search capability </p></td>
-<td><p> L2 + searchable resources are standard-based with advanced search capability </p></td>
+<td><strong>I3</strong></td>
+<td><strong>Reference</strong></td>
+<td><p> Data and metadata include references </p></td>
+<td><p> L1 + references can be to other data and/or metadata that are machine-readable in non-proprietary format  </p></td>
+<td><p> L2 + references are qualified and following linked data standards </p></td>
 </tr>
 </tbody>
 </table>
