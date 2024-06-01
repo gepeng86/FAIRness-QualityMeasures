@@ -7,9 +7,8 @@ Adapted from Bailo (2019) and Peng (2023; updated in 2024), this diagram depicts
 
 **Figure.** Four Essential Components of the FAIR Principles - Capacity & Category-Specific Requirements
 
-<div style="bodrder: 1px solid blue; inline-block;"> 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_FAIR_4-Components_Star_v00r03_lowRes.jpg" width="850" />
-</div>
+
 
 References
 -----------
