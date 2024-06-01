@@ -35,6 +35,16 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <p><strong>Optimal Stage</strong></p></th>
 </tr>
 </thead>
+<tbody>
+<tr class="even">
+<td><strong>F1</strong></td>
+<td><strong>Identifier</strong></td>
+<td><p>Data and metadata are assigned identifiers</p>p?</td>
+<td><p>L1 `+` identifiers are either eternally persistent but not globally unique, or globally unique but not always persistent or unique within a particular scientific discipline</p></td>
+<td><p>L1 `+` identifiers are globally unique and eternally persistent</p></td>
+</tr>
+</tbody>
+
 </table>
 
 
