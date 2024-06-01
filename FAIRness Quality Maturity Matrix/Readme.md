@@ -16,8 +16,10 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 <tbody>
 <tr class="odd">
 <td>ARDC FAIR Data Self-Assessment Tool</td>
-<td>1.1</td>
-<td>1.2</td>
+<td>https://ardc.edu.au/resource/fair-data-self-assessment-tool/
+</td>
+<td>Questionnaire with a drop-down menu for each question; a total of 12 questions
+</td>
 <td>1.3</td>
 </tr>
 <tr class="even">
