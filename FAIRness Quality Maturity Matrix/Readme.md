@@ -13,7 +13,7 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 | FAIRsharing FAIR Metrics | https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators | A set of 14 universal metric (Wilkinson et al. 2018). |
 
 
-The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023) can be found in Peng et al. (2024). 
+The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
 
 **Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the Findability dimension
 <table>
@@ -75,8 +75,6 @@ Hutchison, V.B., T. Norkin, L.S. Zolly, and L. Hsu. 2024. “State of the Data: 
 Jacobsen, A, R.M. de Azevedo, N. Juty, D. Batista, S. Coles, and others. 2020. “FAIR principles: Interpretations and implementation considerations.” _Data Intelligence_ 2. https://doi.org/10.1162/dint_r_00024 
 
 Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane, 2024. "Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information." _Int. J. Digit. Earth_. Under review.
-
-Peng, G. 2023. “Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators (v01r00-20230225).” Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896947 
 
 Peng, G., J.L. Privette, E.J. Kearns, N.A. Ritchey, and S. Ansari. 2015. “A unified framework for measuring stewardship practices applied to digital environmental datasets.” _Data Science Journal_ 13. http://dx.doi.org/10.2481/dsj.14-049
 
