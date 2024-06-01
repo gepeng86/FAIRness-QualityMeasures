@@ -4,12 +4,19 @@
 This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1.
 
 **Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
+| **Resource** | **URL** | **Commments** |
+|    :---:     |  :---:  |  :---         |
+| ARDC FAIR Data Self-Assessment Tool | https://ardc.edu.au/resource/fair-data-self-assessment-tool/ | Questionnaire with a drop-down menu for each question; a total of 12 questions |
+| GO-FAIR FAIR Implementation Questionnaires | https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/ | 21 questions with associated FAIR enabling resource types |
+| GO-FAIR Foundation FAIR Interpretations | https://www.gofair.foundation/interpretation | Interpretations are primarily based on Jacobsen et al. (2022) |
+
+
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>Resource</strong></th>
-<th><p><strong>URL</strong></th>
-<th><p><strong>Commments</strong></th>
+<th><strong>Resource</strong></th>
+<th><strong>URL</strong></th>
+<th><strong>Commments</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -65,6 +72,8 @@ RDA FAIR Data Maturity Model Working Group. 2020. “FAIR Data Maturity Model: s
 Schultes, E. 2023. “The FAIR hourglass: A framework for FAIR implementation.” _FAIR Connect_ 1. https://doi.org/10.3233/FC-221514 
 
 Wilkinson, M.D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_ 3,  https://doi.org/10.1038/sdata.2016.18
+
+Wilkinson, M.D., S.A. Sansone, E. Schultes, P. Doorn, and others. 2018. “A design framework and exemplar metrics for FAIRness.” _Sci. Data_ 5. https://doi.org/10.1038/sdata.2018.118 
 
 Wilkinson, M.D., M. Dumontier, S.A. Sansone, L.O.B. da Silva Santos, and others. 2019. “Evaluating FAIR maturity through a scalable, automated, community-governed framework.” _Sci. Data_ 6. https://doi.org/10.1038/s41597-019-0184-5; FAIR Evaluation Services http://w3id.org/AmIFAIR
 
