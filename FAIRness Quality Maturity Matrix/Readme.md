@@ -100,8 +100,8 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tr>
 <tr class="odd">
 <td><strong>A1.2</strong></td>
-<td><p>Metadata Longevity</p></td>
-<td><p> Metadata associated with the latest version of data are accessible online </p></td>
+<td><p><strong>Communication Protocol - Procedure </strong></p></td>
+<td><p> The protocols allow for procedures </p></td>
 <td><p> L1 + Metadata associated with the last previous version of data are accessible online  </p></td>
 <td><p> Metadata associated with all versions of data are accessible online permanently  </p></td>
 </tr>
@@ -109,8 +109,8 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><strong>A2</strong></td>
 <td><p>Metadata Longevity</p></td>
 <td><p> Metadata associated with the latest version of data are accessible online </p></td>
-<td><p> L1 + Metadata associated with the last previous version of data are accessible online </p></td>
-<td><p> Metadata associated with all versions of data are accessible online permanently </p></td>
+<td><p> L1 + procedures include that for authentication </p></td>
+<td><p> L2 + procedures include that for authorization </p></td>
 </tr>
 </tbody>
 </table>
