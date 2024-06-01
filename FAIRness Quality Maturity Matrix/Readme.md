@@ -15,29 +15,33 @@ This folder contains the FAIR-QMM for digital scientific data products as define
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>ARDC FAIR Data Self-Assessment Tool</strong></td>
+<td>ARDC FAIR Data Self-Assessment Tool</td>
 <td>1.1</td>
 <td>1.2</td>
+<td>1.3</td>
 </tr>
 <tr class="even">
-<td><strong>GO-FAIR FAIR Implementation Questionnaires</strong></td>
+<td>GO-FAIR FAIR Implementation Questionnaires</td>
 <td>2.1</td>
+<td>..</td>
 <td>..</td>
 </tr>
 <tr class="odd">
-<td><strong>GO-FAIR Foundation FAIR Interpretations</strong></td>
+<td>GO-FAIR Foundation FAIR Interpretations</td>
 <td>3.1</td>
+<td>..</td>
 <td>..</td>
 </tr>
 <tr class="even">
-<td><strong>FAIRsFAIR F-UJI Tool</strong></td>
+<td>FAIRsFAIR F-UJI Tool</td>
 <td>4.1</td>
 <td>..</td>
 <td>..</td>
 </tr>
 <tr class="odd">
-<td><strong>FAIRsharing FAIR Metrics</strong></td>
+<td>FAIRsharing FAIR Metrics</td>
 <td>5.1</td>
+<td>..</td>
 <td>..</td>
 </tr>
 </tbody>
