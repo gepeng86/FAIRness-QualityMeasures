@@ -1,7 +1,7 @@
 **FAIRness Quality Maturity Matrix (FAIR-QMM)**
 -----------------------------------------------
 
-This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1.
+This folder contains the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A). The FAIR-QMM builds on a set of FAIRness quality measures and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., Wilkinson et al. 2016; 2019; Peng et al. 2015; Fenner et al. 2019; RDA FAIR Data Maturity Model Working Group 2020; Devaraju and Huber 2021; Jacobsen et al. 2020; Wu et al. 2023; Hutchison et al. 2024; Schultes 2023) as well as the online resources captured in Table A1. The full description of the FAIR-QMM for digital scientific data is provided in Tables A2.1-15, accompanied by explanations, examples, and corresponding harmonized FAIRness indicators from Peng (2023). The examples provided serve as references and do not indicate any endorsement or preference by the authors regarding their implementation.
 
 **Table A1.** A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
 | **Resource** | **URL** | **Commments** |
@@ -26,6 +26,8 @@ Hutchison, V.B., T. Norkin, L.S. Zolly, and L. Hsu. 2024. “State of the Data: 
 Jacobsen, A, R.M. de Azevedo, N. Juty, D. Batista, S. Coles, and others. 2020. “FAIR principles: Interpretations and implementation considerations.” _Data Intelligence_ 2. https://doi.org/10.1162/dint_r_00024 
 
 Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane, 2024. "Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information." _Int. J. Digit. Earth_. Under review.
+
+Peng, G. 2023. “Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators (v01r00-20230225).” Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896947 
 
 Peng, G., J.L. Privette, E.J. Kearns, N.A. Ritchey, and S. Ansari. 2015. “A unified framework for measuring stewardship practices applied to digital environmental datasets.” _Data Science Journal_ 13. http://dx.doi.org/10.2481/dsj.14-049
 
