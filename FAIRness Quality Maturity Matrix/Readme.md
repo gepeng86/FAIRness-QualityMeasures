@@ -36,7 +36,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tr>
 </thead>
 <tbody>
-<tr class="even">
+<tr class="odd">
 <td><strong>F1</strong></td>
 <td><strong>Identifier</strong></td>
 <td><p>Data and metadata are assigned identifiers</p></td>
@@ -44,7 +44,6 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 <td><p>L1 + identifiers are globally unique and eternally persistent</p></td>
 </tr>
 </tbody>
-
 </table>
 
 
