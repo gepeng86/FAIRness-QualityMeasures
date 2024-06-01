@@ -158,7 +158,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 </tbody>
 </table>
 
----------------
+================
 
 **Table A5.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Reusability_ dimension of the FAIR Principles
 <table>
