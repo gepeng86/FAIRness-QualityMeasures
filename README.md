@@ -6,7 +6,7 @@ FAIRness Quality Measures
 
 This repository describes the coutcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). 
 
-The FAIRness quality measures are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216).
+The FAIRness quality measures established by Peng et al. (2024) are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216).
 
 The FAIRness quality measures can serve as common, fundamental pillars of holistic FAIRness assessment workflows. More information can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/FAIR%20Quality%20Measures). 
 
