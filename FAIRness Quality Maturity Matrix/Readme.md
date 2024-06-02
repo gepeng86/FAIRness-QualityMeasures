@@ -14,7 +14,7 @@ This folder contains the description of the FAIR-QMM for digital scientific data
 
 ---------------------
 
-The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information on explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
+The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information inclduing explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
 
 
 **Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Findability_ dimension of the FAIR Principles
