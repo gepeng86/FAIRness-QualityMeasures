@@ -15,10 +15,10 @@ Adapted from Bailo (2019) and Peng (2023; updated in 2024), this diagram (Peng 2
 References
 -----------
 
-Bailo, D. (2019). Four-stages FAIR Roadmap - FAIR "Pyramid". Zenodo. https://doi.org/10.5281/zenodo.3299353
+Bailo, D. 2019. Four-stages FAIR Roadmap - FAIR "Pyramid". Zenodo. https://doi.org/10.5281/zenodo.3299353
 
-Peng, G. (2023). Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators. Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896947
+Peng, G. 2023. Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators. Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896947
 
-Peng, G. (2024). Four Essential Components for FAIR Data: Capability & Category-Specific Requirements. _Zenodo_, https://doi.org/10.5281/zenodo.11315841
+Peng, G. 2024. Four Essential Components for FAIR Data: Capability & Category-Specific Requirements. _Zenodo_, https://doi.org/10.5281/zenodo.11315841
 
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. (2024). Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. 2024. Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
