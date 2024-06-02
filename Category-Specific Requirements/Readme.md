@@ -21,4 +21,4 @@ Peng, G. (2023). Dissecting the FAIR Guiding Principles - Key Categories, Core C
 
 Peng, G. (2024). Four Essential Components for FAIR Data: Capability & Category-Specific Requirements. _Zenodo_, https://doi.org/10.5281/zenodo.11315841
 
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A.Marouane, 2024: Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. (2024). Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
