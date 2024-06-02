@@ -12,7 +12,7 @@ The FAIRness quality measures can serve as common, fundamental pillars of holist
 
 A common FAIR vocabulary defined in Peng et al. (2024) is presented with definitions and ontology specifications (working in progress). The common FAIR vocabulary is beneficial for harmonizing FAIRness assessment and reporting towards machine-actionable FAIRness quality information.
 
-A FAIRness quality maturit matrix (FAIR-QMM) created by Peng et al. (2024) is also presented. The FAIR-QMM is a structured, tiered, and progressive approach for evaluating and reporting the degree of FAIR-compliance. It can be used as a FAIRness assessment tool independently and/or as a translator between other FAIRness assessment tools or models. 
+A FAIRness quality maturit matrix (FAIR-QMM) crafted by Peng et al. (2024) is also presented. The FAIR-QMM is a structured, tiered, and progressive approach for evaluating and reporting the degree of FAIR-compliance. It can be used as a FAIRness assessment tool independently and/or as a translator between other FAIRness assessment tools or models. 
  
 
 **Release Notes**
