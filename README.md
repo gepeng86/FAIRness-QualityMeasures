@@ -19,8 +19,8 @@ A FAIRness quality maturit matrix (FAIR-QMM) crafted by Peng et al. (2024) is al
 ------------------
 The contents in this repository is released under the [<span class="underline">CC-BY 4.0
 International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
-license. When using or reusing the described FAIRness quality measures, common FAIR vocabulary, and any other relevant contents, please provide attribution
-to this repository.
+license. When using or reusing the described FAIRness quality measures, common FAIR vocabulary, FAIR-QMM, and any other relevant contents, please provide attribution
+to Peng et al. (2024) and/or this repository.
 
 If you have any improvement suggestions, you can provide feedback using one of the following two options:
 * Contact Ge Peng (ge.peng@uah,edu),
