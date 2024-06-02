@@ -14,7 +14,7 @@ A common FAIR vocabulary defined in Peng et al. (2024) is presented with definit
 
 A FAIRness quality maturit matrix (FAIR-QMM) crafted by Peng et al. (2024) is also presented. The FAIR-QMM is a structured, tiered, and progressive approach for evaluating and reporting the degree of FAIR-compliance. It can be used as a FAIRness assessment tool independently and/or as a translator between other FAIRness assessment tools or models. More information can be found in [this folder](./FAIRness%20Quality%20Maturity%20Matrix).
 
- Related presentations can be found in [this folder] (Presentations).
+ Related presentations can be found in [this folder](./Presentations).
 
 **Release Notes**
 ------------------
