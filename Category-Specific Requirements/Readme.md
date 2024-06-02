@@ -6,7 +6,7 @@ The category-specific requirements mapped from the FAIR Principles are defined i
 Adapted from Bailo (2019) and Peng (2023; updated in 2024), this diagram (Peng 2024) depicts the FAIR requirements specific to data, metadata, and infrastructure adhering to the definition of individual FAIR principles, and emphasizes the importance of enterprise capabilities in terms of processes, systems, standards, tools, and skills, in supporting FAIR data. All four components are essential in systematically improving the FAIRness of the overall scientific data collection of individual organizations.
 
 
-**Figure.** Four Essential Components for FAIR Data - Capacity & Category-Specific Requirements. A high-resolution version is availabe at: https://doi.org/10.5281/zenodo.11315841
+**Figure 1.** Four Essential Components for FAIR Data - Capacity & Category-Specific Requirements. A high-resolution version is availabe at: https://doi.org/10.5281/zenodo.11315841
 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_FAIR_4-Components_Star_v00r03_lowRes.jpg" width="850" />
 
