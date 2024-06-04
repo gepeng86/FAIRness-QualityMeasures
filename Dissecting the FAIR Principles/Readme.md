@@ -3,7 +3,7 @@ Dissecting the FAIR Principles
 
 [<span class="underline" style="color:blue">Wilkinson et al. (2016)</span>](https://doi.org/10.1038/sdata.2016.18) designed high-level guiding principles under four nonfunctional requirements - Findability, Accessibility, Interoperability, and Reusability. We refer to these four nonfunctional requirements as ***four FAIR quality dimensions***.
 
-Wilkinson et al. (2016) also developed 15 FAIR principles to establish specific functional requirements for digital objects along the four FAIR quality dimensions in a computational environment. These 15 FAIR principles cover three high-level unique categories: data, metadata, and infrastructure. refered to as ***Three Categories***. 
+Wilkinson et al. (2016) also developed 15 FAIR principles to establish specific functional requirements for digital objects along the four FAIR quality dimensions in a computational environment. These 15 FAIR principles cover three high-level unique categories: data, metadata, and infrastructure. refered to as ***three FAIR categories***. 
 
 The principles also entail essential properties or specific functional requirements for each of the three categories. For example, F1 requires that data and metadata should each be assigned a property: identifier; the identifier is further qualified to be globally unique and eternally persistent. After mapping the 15 principles onto the three categories, ***28 category-specific requirements** are identified for data, metadata, and infrastructure. Additional details in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/Category-Specific%20Requirements).
 
