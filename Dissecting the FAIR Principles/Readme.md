@@ -19,6 +19,6 @@ By decomposing the definitions of the FAIR principles through a systematic conce
 References
 ----------
 
-Peng, G. 2023. “Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators (v01r00-20230225) [Data set].” _Zenodo_. https://doi.org/10.5281/zenodo.7896948 
+Peng, G. 2023. Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators. Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896948 
 
-Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_, 3,  https://doi.org/10.1038/sdata.2016.18
+Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others. 2016. The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_, 3,  https://doi.org/10.1038/sdata.2016.18
