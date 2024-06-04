@@ -5,15 +5,15 @@ Dissecting the FAIR Principles
 
 Wilkinson et al. (2016) also developed 15 FAIR principles to establish specific functional requirements for digital objects along the four FAIR quality dimensions in a computational environment. These 15 FAIR principles cover three high-level unique categories: data, metadata, and infrastructure. refered to as ***Three Categories***. 
 
-The principles also entail essential properties or specific functional requirements for each of the three categories. For example, F1 requires that data and metadata should each be assigned a property: identifier; the identifier is further qualified to be globally unique and eternally persistent. After mapping the 15 principles onto the three categories, 28 category-specific requirements are identified for data, metadata, and infrastructure. Additional details in this folder.
+The principles also entail essential properties or specific functional requirements for each of the three categories. For example, F1 requires that data and metadata should each be assigned a property: identifier; the identifier is further qualified to be globally unique and eternally persistent. After mapping the 15 principles onto the three categories, 28 category-specific requirements are identified for data, metadata, and infrastructure. Additional details in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/Category-Specific%20Requirements).
 
 In contrast to its simple acronym, the FAIR Principles are highly complex even before accounting for domain and application dependencies. The FAIR principles are inherently multi-dimensional. They are also multi-layered and multi-faceted, revolving around key concepts with multiple elements, as depicted in the first figure below.
 
-By decomposing the definitions of the FAIR principles through a systematic concept mapping approach, [<span class="underline" style="color:blue"Peng (2023)</span>](https://doi.org/10.5281/zenodo.7896948) deduced 21 unique category-specific core concepts and 48 category-specific focus elements, and formulated 85 harmonized indicators for FAIR data. The second figure below ties all these together. Detailed information on the common FAIR vocabulary can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/Common%20FAIR%20Vocabulary).
+By decomposing the definitions of the FAIR principles through a systematic concept mapping approach, [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.5281/zenodo.7896948) deduced 21 unique category-specific core concepts and 48 category-specific focus elements, and formulated 85 harmonized indicators for FAIR data. The second figure below ties all these together. Detailed information on the common FAIR vocabulary can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/Common%20FAIR%20Vocabulary).
 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_etal_2024-IJED-Figure2.jpg" width="850" />
 
-<img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_DissectingFAIR-Principles_v00r08.jpg" width="550" />
+<img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_DissectingFAIR-Principles_v00r08.jpg" width="600" />
 
 
 References
