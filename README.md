@@ -6,7 +6,7 @@ FAIRness Quality Measures
 
 This repository describes the coutcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). 
 
-The FAIRness quality measures established by Peng et al. (2024) are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216).
+The FAIRness quality measures established by Peng et al. (2024) are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216). 
 
 The FAIRness quality measures can serve as common, fundamental pillars of holistic FAIRness assessment workflows. More information can be found in [this folder](./FAIR%20Quality%20Measures). 
 
@@ -14,7 +14,9 @@ A common FAIR vocabulary defined in Peng et al. (2024) is presented with definit
 
 A FAIRness quality maturit matrix (FAIR-QMM) crafted by Peng et al. (2024) is also presented. The FAIR-QMM is a structured, tiered, and progressive approach for evaluating and reporting the degree of FAIR-compliance. It can be used as a FAIRness assessment tool independently and/or as a translator between other FAIRness assessment tools or models. More information can be found in [this folder](./FAIRness%20Quality%20Maturity%20Matrix).
 
- Related presentations can be found in [this folder](./Presentations).
+Requirements derived from the FAIR Principles for Data, Metadata, Infrastructure, and Enterprise Capability are listed in [this folder](./Category-Specific%20Requirements).
+
+Related presentations can be found in [this folder](./Presentations).
 
 **Release Notes**
 ------------------
