@@ -21,4 +21,6 @@ References
 
 Peng, G. 2023. Dissecting the FAIR Guiding Principles - Key Categories, Core Concepts, Focus Elements, and Harmonized Indicators. Updated 2024. _Zenodo_. https://doi.org/10.5281/zenodo.7896948 
 
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. (2024). Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
+
 Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others. 2016. The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_, 3,  https://doi.org/10.1038/sdata.2016.18
