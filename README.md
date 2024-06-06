@@ -25,9 +25,7 @@ International</span>](https://creativecommons.org/licenses/by/4.0/legalcode)
 license. When using or reusing the described FAIRness quality measures, common FAIR vocabulary, FAIR-QMM, and any other relevant contents, please provide attribution
 to Peng et al. (2024) and/or this repository.
 
-If you have any improvement suggestions, you can provide feedback using one of the following two options:
-* Contact Ge Peng (ge.peng@uah,edu),
-* Open an issue or start a discussion in this gitHub repo.
+If you have any improvement suggestions, you can provide feedback by opening an issue or start a discussion in this gitHub repo.
 
 **References**
 ----------------
