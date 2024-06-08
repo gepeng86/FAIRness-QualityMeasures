@@ -6,7 +6,7 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
 ---------------------------------------------------
  Class, representing the FAIR Principles Framework
 ---------------------------------------------------
-  * FAIR Principles, a framework providing high-level data management and stewardship guidelines defined by Wilkinson et al. (2016) for sharing digital resources, especially in a computer-friendly environment.
+  * ***FAIR Principles***, a framework providing high-level data management and stewardship guidelines defined by Wilkinson et al. (2016) for sharing digital resources, especially in a computer-friendly environment.
 
 ------------------------------------------------------------------------------------------
  Dimensions, representing the four key non-functional requirements of the FAIR Principles
