@@ -39,7 +39,7 @@ Unique category-specific core concepts mapped from the FAIR principles
 ---------------------------------------------------------------------------- 
   * Identifier {Data, Metadata}
   * Resource {Data, Metadata}
-  * Propocol {Data, Metadata}
+  * Protocol {Data, Metadata}
   * Procedure {Insfrastructure}
   * Language {Data, Metadata}
   * Vocabulary {Data, Metadata}
