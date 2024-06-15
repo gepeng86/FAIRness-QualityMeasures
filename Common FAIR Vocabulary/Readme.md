@@ -35,11 +35,26 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
   * ***Infrastructure (IS)***
 
 ---------------------------------------------------------------------------- 
+Unique category-specific core concepts mapped from the FAIR principles
+---------------------------------------------------------------------------- 
+  * Identifier {Data, Metadata}
+  * Resource {Data, Metadata}
+  * Propocol {Data, Metadata}
+  * Procedure {Insfrastructure}
+  * Language {Data, Metadata}
+  * Vocabulary {Data, Metadata}
+  * Reference {Data, Metadata}
+  * Attribute {Data, Metadata}
+  * License {Data, Metadata}
+  * Provenance {Data, Metadata}
+  * Standards {Data, Metadata}
+    
+---------------------------------------------------------------------------- 
  Quality Measures, representing unique core concepts in the FAIR principles
 ---------------------------------------------------------------------------- 
   *  ${\color{rgb(12,123,220)}Identifier}$, refers to a unique and persistent identifier for data and/or metadata.
     
-  *  ${\color{rgb(12,123,220)}{\textsf{\textit{Rich Metadata}}}}$, refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. This entity is closely related to “Attribute” in the context of (re)use.
+  *  ${\color{rgb(12,123,220)}{\textsf{\textit{Rich Metadata}}}}$, refers to a set of descriptors of data including those minimally required for search and discovery, as well as those needed for understanding and reuse. Strickly speaking "Rich Metadata" is not a unique core concept. However, measuring metadata richness is important for FAIR and "Rich Metadata" is treated as as a single term to distinguish it from “Metadata”. This entity is closely related to “Attribute” in the context of (re)use.
     
   *  ${\color{rgb(12,123,220)}Resource}$, refers to infrastructure such as search engines like Google that users can perform searches to find relevant data.
     
