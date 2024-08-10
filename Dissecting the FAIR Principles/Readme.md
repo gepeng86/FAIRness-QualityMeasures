@@ -11,6 +11,10 @@ In contrast to its simple acronym, the FAIR Principles are highly complex even b
 
 By decomposing the definitions of the FAIR principles through a systematic concept mapping approach, [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.5281/zenodo.7896948) deduced 21 unique category-specific core concepts and 48 category-specific focus elements, and formulated 85 harmonized indicators for FAIR data. The second figure below ties all these together. Detailed information on the common FAIR vocabulary can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/Common%20FAIR%20Vocabulary).
 
+21 unique category-specific core concepts lead to 12 unique core concepts, which are defined as FAIRness Quality Measures by Peng  et al. (2024). Detailed information can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/FAIR%20Quality%20Measures).
+
+Building on this set of FAIRness quality measures, a FAIRness quality maturity matrix (FAIR-QMM) was crafted as a structured, tiered, and progressive approach for evaluating and reporting the degree of FAIR-compliance. Descrption of the FAIR-QMM can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/FAIRness%20Quality%20Maturity%20Matrix).
+
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_etal_2024_FAIR-QM_Figure2_Citation.jpg" width="850" />
 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_DissectingFAIR-Principles_v00r08.jpg" width="600" />
