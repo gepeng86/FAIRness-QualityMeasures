@@ -34,4 +34,4 @@ Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey
 
 Peng, G. (2023). Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
 
-Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others, 2016: The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_, 3,  https://doi.org/10.1038/sdata.2016.18
+Wilkinson, M. D.,  M. Dumontier, I. J. Aalbersberg, G. Appleton, M. Axton, A. Baak, and others. (2016). The FAIR Guiding Principles for scientific data management and stewardship. _Sci. Data_, 3,  https://doi.org/10.1038/sdata.2016.18
