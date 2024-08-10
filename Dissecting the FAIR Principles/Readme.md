@@ -1,8 +1,5 @@
-Dissecting the FAIR Principles - An Introduction to Peng et al. (2024)
-==================================================================
-
-This a high-level introduction to a peer-reviewed journal article by [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.1080/17538947.2024.2390431), titled: _Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information_, published by [<span class="underline" style="color:blue"> the International Journal of Digital Earth </span>](https://www.tandfonline.com/journals/tjde20) 
- of Taylor & Francis for a special collection ([<span class="underline" style="color:blue"> Advance in FAIR Geospatial Information Resources </span>] (https://think.taylorandfrancis.com/article_collections/international-journal-of-digital-earth-advances-on-fair-geospatial-information-resources/).)
+Dissecting the FAIR Principles 
+===============================
 
 [<span class="underline" style="color:blue">Wilkinson et al. (2016)</span>](https://doi.org/10.1038/sdata.2016.18) designed high-level guiding principles under four nonfunctional requirements - Findability, Accessibility, Interoperability, and Reusability. We refer to these four nonfunctional requirements as ***four FAIR quality dimensions***.
 
@@ -16,7 +13,6 @@ By decomposing the definitions of the FAIR principles through a systematic conce
 
 21 unique category-specific core concepts lead to 12 unique core concepts, which are defined as FAIRness Quality Measures. Detailed information can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/FAIR%20Quality%20Measures).
 
-Building on this set of FAIRness quality measures, the FAIRness quality maturity matrix (FAIR-QMM) was developed as a structured, tiered, and progressive approach to evaluating and reporting the degree of FAIR compliance. Description of the FAIR-QMM can be found in [this folder](https://github.com/gepeng86/FAIRness-QualityMeasures/tree/main/FAIRness%20Quality%20Maturity%20Matrix).
 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_etal_2024_FAIR-QM_Figure2_Citation.jpg" width="850" />
 
