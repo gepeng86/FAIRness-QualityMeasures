@@ -1,8 +1,8 @@
 Dissecting the FAIR Principles - An Introduction to Peng et al. (2024)
 ==================================================================
 
-This a high-level introduction to a peer-reviewed journal article by Peng et al. (2024), titled: _Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information_, published by [<span class="underline" style="color:blue"> the International Journal of Digital Earth </span>](https://www.tandfonline.com/journals/tjde20) 
- ofTaylor & Francis for a special collection ([<span class="underline" style="color:blue"> Advance in FAIR Geospatial Information Resources </span>] (https://think.taylorandfrancis.com/article_collections/international-journal-of-digital-earth-advances-on-fair-geospatial-information-resources/)).
+This a high-level introduction to a peer-reviewed journal article by [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.1080/17538947.2024.2390431), titled: _Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information_, published by [<span class="underline" style="color:blue"> the International Journal of Digital Earth </span>](https://www.tandfonline.com/journals/tjde20) 
+ of Taylor & Francis for a special collection ([<span class="underline" style="color:blue"> Advance in FAIR Geospatial Information Resources </span>] (https://think.taylorandfrancis.com/article_collections/international-journal-of-digital-earth-advances-on-fair-geospatial-information-resources/).)
 
 [<span class="underline" style="color:blue">Wilkinson et al. (2016)</span>](https://doi.org/10.1038/sdata.2016.18) designed high-level guiding principles under four nonfunctional requirements - Findability, Accessibility, Interoperability, and Reusability. We refer to these four nonfunctional requirements as ***four FAIR quality dimensions***.
 
