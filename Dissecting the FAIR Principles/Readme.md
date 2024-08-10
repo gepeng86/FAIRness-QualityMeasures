@@ -1,4 +1,4 @@
-Dissecting the FAIR Principles - An Introduction of Peng et al. (2024)
+Dissecting the FAIR Principles - An Introduction to Peng et al. (2024)
 ==================================================================
 
 [<span class="underline" style="color:blue">Wilkinson et al. (2016)</span>](https://doi.org/10.1038/sdata.2016.18) designed high-level guiding principles under four nonfunctional requirements - Findability, Accessibility, Interoperability, and Reusability. We refer to these four nonfunctional requirements as ***four FAIR quality dimensions***.
