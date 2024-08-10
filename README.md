@@ -4,7 +4,8 @@ Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Q
 **Introduction**
 -----------------
 
-This repository highlights the outcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.1080/17538947.2024.2390431). 
+This repository highlights the outcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.1080/17538947.2024.2390431), published by [<span class="underline" style="color:blue"> the International Journal of Digital Earth </span>](https://www.tandfonline.com/journals/tjde20) 
+ of Taylor & Francis for a special collection ([<span class="underline" style="color:blue"> Advance in FAIR Geospatial Information Resources </span>] (https://think.taylorandfrancis.com/article_collections/international-journal-of-digital-earth-advances-on-fair-geospatial-information-resources/).) 
 
 The FAIRness quality measures established by Peng et al. (2024) are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216). 
 
