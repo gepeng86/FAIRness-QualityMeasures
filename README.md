@@ -1,10 +1,10 @@
-FAIRness Quality Measures
-=====================
+Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information
+===================================================================================================
 
 **Introduction**
 -----------------
 
-This repository highlights the outcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.5281/zenodo.10533920). 
+This repository highlights the outcomes from [<span class="underline" style="color:blue">Peng et al. (2024)</span>](https://doi.org/10.1080/17538947.2024.2390431). 
 
 The FAIRness quality measures established by Peng et al. (2024) are a set of unique core concepts contained in the definitions of the FAIR Principls ([<span class="underline" style="color:blue">Wilkinson et al. 2016)</span>](https://doi.org/10.1038/sdata.2016.18), that can be used to evaluate the level of FAIR-compliance, i.e., FAIRness. The core concepts are deduced by decomposing the definitions through a concept mapping approach described in [<span class="underline" style="color:blue">Peng (2023)</span>](https://doi.org/10.1029/2023EO230216). 
 
@@ -29,7 +29,7 @@ If you have any improvement suggestions, you can provide feedback by opening an 
 
 **References**
 ----------------
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. (2024). Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth. Under review._
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane. (2024). Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information. _Int. J. Digit. Earth._ https://doi.org/10.1080/17538947.2024.2390431
 
 Peng, G. (2023). Finding harmony in FAIRness. _Eos_, 23, https://doi.org/10.1029/2023EO230216
 
