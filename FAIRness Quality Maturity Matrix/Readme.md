@@ -1,13 +1,13 @@
 **FAIRness Quality Maturity Matrix (FAIR-QMM)**
 -----------------------------------------------
 
-This folder contains the description of the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A, which is inclued in the [supplementary material](https://doi.org/10.1080/17538947.2024.2390431)). The FAIR-QMM builds on a set of [FAIRness quality measures](https://github.com/gepeng86/FAIR-QualityMeasures/tree/main/FAIR%20Quality%20Measures) and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18); [Wilkinson et al. 2019](https://doi.org/10.1038/s41597-019-0184-5); [Peng et al. 2015](http://dx.doi.org/10.2481/dsj.14-049); [Fenner et al. 2019](https://doi.org/10.1038/s41597-019-0031-8); [RDA FAIR Data Maturity Model Working Group 2020](https://doi.org/10.15497/RDA00050); [Devaraju and Huber 2021](https://doi.org/10.5281/zenodo.6461229); [Jacobsen et al. 2020](https://doi.org/10.1162/dint_r_00024); [Schultes 2023]( https://doi.org/10.3233/FC-221514); [Wu et al. 2023]( https://doi.org/10.1162/dint_a_00186); [Hutchison et al. 2024](https://doi.org/10.5334/dsj-2024-022)) as well as the online resources captured in Table A1. 
+This folder contains the description of the FAIR-QMM for digital scientific data products as defined in Peng et al. (2024; Appendix A, which is inclued in the [supplementary material](https://doi.org/10.1080/17538947.2024.2390431)). The FAIR-QMM builds on a set of [FAIRness quality measures](https://github.com/gepeng86/FAIR-QualityMeasures/tree/main/FAIR%20Quality%20Measures) and informed by a wide array of community practices in the management and stewardship of digital scientific data (e.g., [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18); [Wilkinson et al. 2019](https://doi.org/10.1038/s41597-019-0184-5); [Peng et al. 2015](http://dx.doi.org/10.2481/dsj.14-049); [Fenner et al. 2019](https://doi.org/10.1038/s41597-019-0031-8); [RDA FAIR Data Maturity Model Working Group 2020](https://doi.org/10.15497/RDA00050); [Devaraju and Huber 2021](https://doi.org/10.5281/zenodo.6461229); [Jacobsen et al. 2020](https://doi.org/10.1162/dint_r_00024); [Schultes 2023]( https://doi.org/10.3233/FC-221514); [Wu et al. 2023]( https://doi.org/10.1162/dint_a_00186); [Hutchison et al. 2024](https://doi.org/10.5334/dsj-2024-022)) as well as the online resources captured in Table 1. 
 
 The FAIR-QMM can be used as a FAIRness assessment tool independently and/or as a translator between other FAIRness assessment tools or models. It can also be used to determine the FAIRness requirements, identify gaps, and develop a roadmap for meeting the requirements, as depicted in the figure below.
 
 <img src="https://github.com/gepeng86/FAIRness-QualityMeasures/blob/main/_images/Peng_etal_2024_FAIR-QM_Figure4_Citation.jpg" width="550" />
 
-**Table A1**. A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM)
+**Table 1**. A list of online resources that are beneficial in formulating the FAIRness Quality Maturity Matrix (FAIR-QMM) (Table A1 in Peng et al. 2024)
 | **Resource** | **URL** | **Commments** |
 |    :---:     |  :---:  |  :---         |
 | ARDC FAIR Data Self-Assessment Tool | https://ardc.edu.au/resource/fair-data-self-assessment-tool/ | Questionnaire with a drop-down menu for each question; a total of 12 questions. |
@@ -18,10 +18,10 @@ The FAIR-QMM can be used as a FAIRness assessment tool independently and/or as a
 
 ---------------------
 
-The full description of the FAIR-QMM for digital scientific data is provided in Tables A2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information inclduing explanations, examples, and corresponding harmonized FAIRness indicators can be found in Peng et al. (2024). 
+The full description of the FAIR-QMM for digital scientific data is provided in Tables 2-5 for the Findability, Accessibility, Interperability, and Reusability dimension, respectively. Additional information inclduing explanations, examples, and corresponding harmonized FAIRness indicators can be found in the supplementary material of Peng et al. (2024). 
 
 
-**Table A2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Findability_ dimension of the FAIR Principles
+**Table 2.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Findability_ dimension of the FAIR Principles. It is onsolidated from Tables A2.1-4 of Peng et al. (2024).
 <table>
 <thead>
 <tr class="header" >
@@ -71,7 +71,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 
 -----------
 
-**Table A3.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Accessibility_ dimension of the FAIR Principles
+**Table 3.** FAIR ID, quality measure (non-bolded entity denotes just core concept), and the definitions of Level 1, 2, and 3 maturity stages for the _Accessibility_ dimension of the FAIR Principles. It is onsolidated from Tables A2.5-8 of Peng et al. (2024).
 <table>
 <thead>
 <tr class="header" >
@@ -121,7 +121,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 
 --------------
 
-**Table A4.** FAIR ID, quality measure, and the definitions of Level 1, 2, and 3 maturity stages for the _Interoperability_ dimension of the FAIR Principles
+**Table 4.** FAIR ID, quality measure, and the definitions of Level 1, 2, and 3 maturity stages for the _Interoperability_ dimension of the FAIR Principles. It is onsolidated from Tables A2.9-11 of Peng et al. (2024).
 <table>
 <thead>
 <tr class="header" >
@@ -164,7 +164,7 @@ The full description of the FAIR-QMM for digital scientific data is provided in 
 
 --------------------------
 
-**Table A5.** FAIR ID, quality measure, and the definitions of Level 1, 2, and 3 maturity stages for the _Reusability_ dimension of the FAIR Principles
+**Table 5.** FAIR ID, quality measure, and the definitions of Level 1, 2, and 3 maturity stages for the _Reusability_ dimension of the FAIR Principles. It is onsolidated from Tables A2.12-15 of Peng et al. (2024).
 <table>
 <thead>
 <tr class="header" >
@@ -224,7 +224,7 @@ Hutchison, V.B., T. Norkin, L.S. Zolly, and L. Hsu. 2024. “State of the Data: 
 
 Jacobsen, A, R.M. de Azevedo, N. Juty, D. Batista, S. Coles, and others. 2020. “FAIR principles: Interpretations and implementation considerations.” _Data Intelligence_ 2. https://doi.org/10.1162/dint_r_00024 
 
-Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane, 2024. "Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information." _Int. J. Digit. Earth_. https://doi.org/10.1080/17538947.2024.2390431 (Supplemental data for this article can be accessed online at https://doi.org/10.1080/17538947.2024.2390431)
+Peng, G., G. Berg-Cross, M. Wu, R.R. Downs, S.R. Shrestha, L. Wyborn, N. Ritchey, H.K. Ramapriyan, S.J. Clark, J. Wood, Z. Liu, and A. Marouane, 2024. "Harmonizing Quality Measures of FAIRness Assessment Towards Machine-Actionable Quality Information." _Int. J. Digit. Earth_. https://doi.org/10.1080/17538947.2024.2390431 (Supplemental material for this article can be accessed online at https://doi.org/10.1080/17538947.2024.2390431)
 
 Peng, G., J.L. Privette, E.J. Kearns, N.A. Ritchey, and S. Ansari. 2015. “A unified framework for measuring stewardship practices applied to digital environmental datasets.” _Data Science Journal_ 13. http://dx.doi.org/10.2481/dsj.14-049
 
