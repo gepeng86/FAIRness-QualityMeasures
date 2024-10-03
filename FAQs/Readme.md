@@ -1,5 +1,5 @@
-Frequently Asked Questions
-==========================
+Frequently Asked Questions (FAQs)
+=================================
 
 ***1. What are the FAIR principles?***
 
