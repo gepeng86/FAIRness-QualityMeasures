@@ -2,7 +2,7 @@ Frequently Asked Questions (FAQs)
 =================================
 
 ***1. What are the FAIR principles?***<br/>
-The FAIR Principles are a set of 15 high-level data management and stewardship guidelines for making digital resources Findable, Accessible, Interoperable, and Reusable. They aim to optimize data sharing and reuse for both humans and machines across disciplines and systems.<br/><br/>
+The FAIR Principles are a set of 15 high-level data management and stewardship guidelines for enabling digital resources Findable, Accessible, Interoperable, and Reusable. They aim to optimize data sharing and reuse for both humans and machines across disciplines and systems.<br/><br/>
 
 ***2. Why is there a need to harmonize FAIRness assessment?***<br/>
 Different domains and organizations interpret and apply the FAIR principles in various ways, leading to inconsistencies in how FAIRness is assessed. Harmonizing FAIRness assessments ensures that evaluations are consistent across different fields, allowing for better comparisons and improved data interoperability.<br/><br/>
