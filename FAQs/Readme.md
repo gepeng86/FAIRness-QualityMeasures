@@ -31,5 +31,5 @@ By utilizing the Quality Measures and FAIR-QMM, organizations can:
 * Create roadmaps for achieving higher compliance if needed;
 * Ensure machine-actionability of both data and quality information, promoting data sharing and reuse across disciplines.<br/><br/>
 
-## ***hat is the role of repositories in enhancing FAIRness?***<br/>
+## ***What is the role of repositories in enhancing FAIRness?***<br/>
 Repositories play a central role in offering FAIR-enabling capabilities. They can establish standardized workflows for creating, publishing, and accessing data, thereby promoting interoperability. This centralized approach alleviates the burden on individual scientists to become FAIR experts and makes data sharing more inclusive.
