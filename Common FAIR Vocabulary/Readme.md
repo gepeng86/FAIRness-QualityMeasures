@@ -19,7 +19,7 @@ The common FAIR vocabulary is a set of consolidated terms pertaining to FAIR Pri
 ----------------------------------------------------------
  Sub-Classes, representing 15 individual FAIR principles
 ---------------------------------------------------------- 
-  * {F1, F2, F3, F4, A1, A1.1, A1.2, A2, I1, I2, I3, R1, R1.1, R1.2, R1.3}
+  * ***FAIR Sub-Principles***: {F1, F2, F3, F4, A1, A1.1, A1.2, A2, I1, I2, I3, R1, R1.1, R1.2, R1.3}
     * Sub-class in F: {F1, F2, F3, F4}
     * Sub-class in A: {A1, A1.1, A1.2, A2}
       * Sub-subclass in A1: {A1.1, A1.2}
